@@ -7,9 +7,10 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/assets/pynstein.jpg){: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"}
 
 * **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/profile/PHYS398MLA-120188)
-* **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
+* **Instructor:** Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
+* **TA:** TBD
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
     * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
