@@ -4,7 +4,8 @@ permalink: /
 ---
 
 # Data Analysis and Machine Learning Applications
-  
+https://illinois-mla.github.io/syllabus
+
 Material for a [University of Illinois](http://illinois.edu) course offered by the [Physics Department](https://physics.illinois.edu).
 
 Content is maintained on [github](https://github.com/illinois-mla) and distributed under a [BSD3 license](https://opensource.org/licenses/BSD-3-Clause).
