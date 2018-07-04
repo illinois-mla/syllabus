@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/assets/pynstein.jpg){: style="width: 550px; float: center; hspace: 200px; border: 10px"}
-# PHYS 398MLP: Data Analysis and Machine Learning Applications
+# <b><span style="color:blue">Data Analysis and Machine Learning Applications</span></b>
+![]({{ site.url }}{{ site.baseurl }}/assets/pynstein.jpg){: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"}
 
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)

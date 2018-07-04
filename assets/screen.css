@@ -20,7 +20,7 @@ footer {
 }
 
 /* small screens */
-@media (max-width: 768px) {
+@media (max-width: 1768px) {
   /* override the Affix plugin so that the navigation isn't sticky */
   nav.affix[data-toggle='toc'] {
     position: static;
@@ -30,4 +30,11 @@ footer {
   nav[data-toggle=toc] .nav .active .nav {
     display: none;
   }
+}
+
+h1 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: bold;
+  color: #fff;
+  font-size: 49px;
 }
