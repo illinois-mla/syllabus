@@ -3,15 +3,8 @@ layout: default
 permalink: /
 ---
 
-# Data Analysis and Machine Learning Applications
-https://illinois-mla.github.io/syllabus
-
-
-
-
-# <img src="assets/pynstein.jpg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
-
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
+![]({{ site.url }}{{ site.baseurl }}/assets/pynstein.jpg){: style="width: 550px; float: center; hspace: 200px; border: 10px"}
+# PHYS 398MLP: Data Analysis and Machine Learning Applications
 
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
