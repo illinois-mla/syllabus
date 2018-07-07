@@ -4,7 +4,8 @@ permalink: /
 ---
 
 # <b><span style="color:blue">Data Analysis and Machine Learning Applications</span></b>
-![](assets/pynstein.jpg) {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"}
+![](assets/pynstein.jpg)
+<!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
 * **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/profile/PHYS398MLA-120188)
 * **Instructor:** Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
