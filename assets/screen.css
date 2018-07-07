@@ -20,7 +20,7 @@ footer {
 }
 
 /* small screens */
-@media (max-width: 1768px) {
+@media (max-width: 768px) {
   /* override the Affix plugin so that the navigation isn't sticky */
   nav.affix[data-toggle='toc'] {
     position: static;
