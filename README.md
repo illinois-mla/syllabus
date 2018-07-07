@@ -11,7 +11,7 @@ permalink: /
 * **Instructor:** Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
 * **TA:** TBD
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
