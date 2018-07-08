@@ -24,11 +24,18 @@ In this course, you will learn the fundamentals of how to analyze and interpret 
 
 ## Prerequisites
 
+### Courses
 * Credit or Concurrent Registration: [MATH 285](https://netmath.illinois.edu/college/math-285)
 * Credit for [PHYS 225](https://physics.illinois.edu/academics/courses/profile/PHYS225) and [PHYS 325](https://physics.illinois.edu/academics/courses/profile/PHYS325)
-* Some knowledge of python preferred but not required
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
+### Hardware
+* It is assumed that you have a Mac or Windows laptop for use both inside and outside of the class.
+
+### Software
+* Some knowledge of python preferred but not required. You do need to have knowledge of the basics of computer programming.
+
+### Setup of your environment
+* There is some setup required to ensure a consistent and functioning software environment to use the Jupyter notebooks in this course. This setup is detailed [here](notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course .
 
 ## Course Overview
 
@@ -115,11 +122,11 @@ Bonus points for:
 
 <!--################### Lecture 01 ######################-->
 
-### <b><span style="color:blue">[Aug 27]</span></b> Lecture 01
-<b><span style="color:red">Setting your environment, Reading list, Homework assignments, Course introduction</span></b>
+### <span style="color:blue">[Aug 27]</span> Lecture 01: <span style="color:red">Introduction</span>
 
 #### Goals
-* Learn stuff
+* Getting overview of the course, including reading list and homework assignments
+* Setting up your environment
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -129,11 +136,11 @@ Bonus points for:
 
 <!--################### Lecture 02 ######################-->
 
-### <b><span style="color:blue">[Sep 03]</span></b> Lecture 02
-<b><span style="color:red">Notebooks and numerical python, Handling data, Visualize data</span></b>
+### <span style="color:blue">[Sep 03]</span> Lecture 02: <span style="color:red">Data Science</span>
 
 #### Goals
-* Learn stuff
+* Gain familiarity with Jupyter Notebooks and Numerical python
+* Learn about handling and visualizing scientific data
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -143,11 +150,12 @@ Bonus points for:
 
 <!--################### Lecture 03 ######################-->
 
-### <b><span style="color:blue">[Sep 10]</span></b> Lecture 03
-<b><span style="color:red">Find structure in data, Measure and reduce dimensionality, Adapt linear methods to nonlinear problems</span></b>
+### <span style="color:blue">[Sep 10]</span> Lecture 03: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
-* Learn stuff
+* Find structure in data
+* Measure and reduce dimensionality
+* Adapt linear models to nonlinear problems
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -157,11 +165,11 @@ Bonus points for:
 
 <!--################### Lecture 04 ######################-->
 
-### <b><span style="color:blue">[Sep 17]</span></b> Lecture 04
-<b><span style="color:red">Estimate probability density, Probability theory</span></b>
+### <span style="color:blue">[Sep 17]</span> Lecture 04: <span style="color:red">Probability</span>
 
 #### Goals
-* Learn stuff
+* Estimate probability density
+* Learn about Probability Theory
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -171,11 +179,11 @@ Bonus points for:
 
 <!--################### Lecture 05 ######################-->
 
-### <b><span style="color:blue">[Sep 24]</span></b> Lecture 05
-<b><span style="color:red">Statistical methods, Bayesian statistics</span></b>
+### <span style="color:blue">[Sep 24]</span> Lecture 05: <span style="color:red">Statistics</span>
 
 #### Goals
-* Learn stuff
+* Learn about Statistical Methods
+* Learn about Bayesian Statistics
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -185,11 +193,12 @@ Bonus points for:
 
 <!--################### Lecture 06 ######################-->
 
-### <b><span style="color:blue">[Oct 01]</span></b> Lecture 06
-<b><span style="color:red">Markov-chain Monte Carlo in practice, Stochastic processes and Markov-chain theory</span></b>
+### <span style="color:blue">[Oct 01]</span> Lecture 06: <span style="color:red">Stochastic processes & Markov chains</span>
 
 #### Goals
-* Learn stuff
+* Learn about Stochastic processes
+* Learn about Markov-chain Theory
+* Markov-chain Monte Carlo put in practice
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -197,13 +206,15 @@ Bonus points for:
 #### Homework
 * None
 
+#### Supplemental reading
+* [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
+
 <!--################### Lecture 07 ######################-->
 
-### <b><span style="color:blue">[Oct 08]</span></b> Lecture 07
-<b><span style="color:red">Variational inference</span></b>
+### <span style="color:blue">[Oct 08]</span> Lecture 07: <span style="color:red">Variational Inference</span>
 
 #### Goals
-* Learn stuff
+* Learn about Variational Inference
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -213,11 +224,10 @@ Bonus points for:
 
 <!--################### Lecture 08 ######################-->
 
-### <b><span style="color:blue">[Oct 15]</span></b> Lecture 08
-<b><span style="color:red">Optimization</span></b>
+### <span style="color:blue">[Oct 15]</span> Lecture 08: <span style="color:red">Optimization</span>
 
 #### Goals
-* Learn stuff
+* Learn about Optimization
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -227,11 +237,11 @@ Bonus points for:
 
 <!--################### Lecture 09 ######################-->
 
-### <b><span style="color:blue">[Oct 22]</span></b> Lecture 09
-<b><span style="color:red">Frameworks for computational graphs and probabilistic programming</span></b>
+### <span style="color:blue">[Oct 22]</span> Lecture 09: <span style="color:red">Comput. Graphs & Probabilistic Programming</span>
 
 #### Goals
-* Learn stuff
+* Learn about Frameworks for Computational Graphs
+* Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -241,11 +251,10 @@ Bonus points for:
 
 <!--################### Lecture 10 ######################-->
 
-### <b><span style="color:blue">[Oct 29]</span></b> Lecture 10
-<b><span style="color:red">Bayesian model selection</span></b>
+### <span style="color:blue">[Oct 29]</span> Lecture 10: <span style="color:red">Bayesian Models</span>
 
 #### Goals
-* Learn stuff
+* Learn about Bayesian model selection
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -255,11 +264,10 @@ Bonus points for:
 
 <!--################### Lecture 11 ######################-->
 
-### <b><span style="color:blue">[Nov 05]</span></b> Lecture 11
-<b><span style="color:red">Learning in a probabilistic context</span></b>
+### <span style="color:blue">[Nov 05]</span> Lecture 11: <span style="color:red">Probabilistic Learning</span>
 
 #### Goals
-* Learn stuff
+* Learning in a probabilistic context
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -269,11 +277,10 @@ Bonus points for:
 
 <!--################### Lecture 12 ######################-->
 
-### <b><span style="color:blue">[Nov 12]</span></b> Lecture 12
-<b><span style="color:red">Supervised learning in Scikit Learn</span></b>
+### <span style="color:blue">[Nov 12]</span> Lecture 12: <span style="color:red">Supervised Learning</span>
 
 #### Goals
-* Learn stuff
+* Supervised learning in scikit-learn
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -283,11 +290,10 @@ Bonus points for:
 
 <!--################### Lecture 13 ######################-->
 
-### <b><span style="color:blue">[Nov 26]</span></b> Lecture 13
-<b><span style="color:red">Cross validation</span></b>
+### <span style="color:blue">[Nov 26]</span> Lecture 13: <span style="color:red">Cross Validation</span>
 
 #### Goals
-* Learn stuff
+* Learn about Cross Validation
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -297,11 +303,10 @@ Bonus points for:
 
 <!--################### Lecture 14 ######################-->
 
-### <b><span style="color:blue">[Dec 03]</span></b> Lecture 14
-<b><span style="color:red">Neural networks</span></b>
+### <span style="color:blue">[Dec 03]</span> Lecture 14: <span style="color:red">Neural Networks</span>
 
 #### Goals
-* Learn stuff
+* Learn about Neural Networks
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -311,11 +316,10 @@ Bonus points for:
 
 <!--################### Lecture 15 ######################-->
 
-### <b><span style="color:blue">[Dec 10]</span></b> Lecture 15
-<b><span style="color:red">Deep learning</span></b>
+### <span style="color:blue">[Dec 10]</span> Lecture 15: <span style="color:red">Deep Learning</span>
 
 #### Goals
-* Learn stuff
+* Learn about Deep Learning
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
@@ -327,59 +331,22 @@ Bonus points for:
 
 ### Required Reading
 
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-
-### Beginner Materials
-
-This class assumes you are confident with this material, but in case you need a brush-up...
-
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
-* see also – [Other Lists](#other-lists)
+* Stuff
 
 ### Recommended Reading
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
+* Stuff
 
 #### Specific Topics
 
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+* Stuff
 
 #### Other Lists
 
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
+* Stuff
 
 ### Tools
 
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
@@ -392,39 +359,16 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-#### HTML/CSS/JS Sandboxes
-
-* [JS Bin](http://jsbin.com/) (recommended)
-* [bl.ocks.org](http://bl.ocks.org/)
-* [Cloud9](https://c9.io/)
-* [CodePen](http://codepen.io/pen/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Mozilla Thimble](https://thimble.mozilla.org)
-* [Plunker](http://plnkr.co/)
-* [rawgithub.com](http://rawgit.com/)
-
-#### Frameworks
-
-* Framework comparison: [TodoMVC](http://todomvc.com)
-* [Testing](https://coderwall.com/p/ntbixw)
-
 ### Reference
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
-
-### More Examples
-
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
 
 ## Grading
 
 * Class Participation – 30%
 * Homework – 70%
 
-## bottom
+## Bottom
 
 Material for a [University of Illinois](http://illinois.edu) course offered by the [Physics Department](https://physics.illinois.edu).
 
