@@ -9,45 +9,53 @@ permalink: /
 
 * **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/profile/PHYS398MLA-120188)
 * **Instructor:** Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
-* **TA:** TBD
+* **TA:** Dewen Zhong, [dzhong6@illinois.edu](mailto:dzhong6@illinois.edu)
+* **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
+    * Office Hours : TBD
    * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
-
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+In this course, you will learn the fundamentals of how to analyze and interpret scientific data and apply modern machine learning tools and techniques to problems such as classification and regression.
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction like adding/removing elements/classes, etc.)
+* Credit or Concurrent Registration: [MATH 285](https://netmath.illinois.edu/college/math-285)
+* Credit for [PHYS 225](https://physics.illinois.edu/academics/courses/profile/PHYS225) and [PHYS 325](https://physics.illinois.edu/academics/courses/profile/PHYS325)
+* Some knowledge of python preferred but not required
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
 
 ## Course Overview
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
+Topics covered include:
 
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
+* Notebooks and numerical python
+* Handling and Visualizing Data
+* Finding structure in data
+* Measuring and reducing dimensionality
+* Adapting linear methods to nonlinear problems
+* Estimating probability density
+* Probability theory
+* Statistical methods
+* Bayesian statistics
+* Markov-chain Monte Carlo in practice
+* Stochastic processes and Markov-chain theory
+* Variational inference
+* Optimization
+* Computational graphs and probabilistic programming
+* Bayesian model selection
+* Learning in a probabilistic context
+* Supervised learning in Scikit-Learn
+* Cross validation
+* Neural networks
+* Deep learning
 
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
-
-See [this interview](https://web.archive.org/web/20140306162909/http://blog.masterstreet.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
+Topics will be demonstrated through live-code examples/slides in Juypter notebooks, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
 
 ## Homework/Projects
 
@@ -105,125 +113,215 @@ Bonus points for:
 
 ## Course Outline
 
-### Class 1
+<!--################### Lecture 01 ######################-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Are you new to front-end web development? Here&#39;s a secret: no one else really knows what they&#39;re doing either.</p>&mdash; Nicolas (@necolas) <a href="https://twitter.com/necolas/status/291978260433219584">January 17, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+### <b><span style="color:blue">[Aug 27]</span></b> Lecture 01
+<b><span style="color:red">Setting your environment, Reading list, Homework assignments, Course introduction</span></b>
 
-1. Introduction
-    * Put name on sticky note on back of monitor
-    * Discuss what the class is going to cover
-    * Everyone introduce themselves
-        * Name
-        * What you "do"
-        * What are your goals for the class?
-        * What's something in JS (or technology) you worry that your peers understand but you don't?
-1. Setup
-    * How many people are comfortable with Git/GitHub?
-    * Install [GitHub Desktop](https://desktop.github.com/)
-        * If you are comfortable with Git already, you can skip this.
-    * Sign up for GitHub
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Explain how slides work
-1. Get through `countdown_exercise` slide
-1. Talk through [requirements](#requirements)
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 
 #### Homework
+* None
 
-* Join [the chat room](https://gitter.im/advanced-js/syllabus).
-* [Set up your GitHub profile.](https://github.com/settings/profile)
-* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
-    * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Read [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises.
-* Complete [blink](https://github.com/advanced-js/blink) exercise.
+<!--################### Lecture 02 ######################-->
 
-### Class 2
+### <b><span style="color:blue">[Sep 03]</span></b> Lecture 02
+<b><span style="color:red">Notebooks and numerical python, Handling data, Visualize data</span></b>
 
-1. Look at various approaches for `countdown()`
-    * Show recursive solution
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
-1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
-    * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 
 #### Homework
+* None
 
-* Read [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [OOP exercise](https://github.com/advanced-js/oop), through V2
-* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
+<!--################### Lecture 03 ######################-->
 
-### Class 3
+### <b><span style="color:blue">[Sep 10]</span></b> Lecture 03
+<b><span style="color:red">Find structure in data, Measure and reduce dimensionality, Adapt linear methods to nonlinear problems</span></b>
 
-1. Code review Memory
-1. Get through [`oop_inheritance`](http://advanced-js.github.io/deck/examples/oop_inheritance/) slide
-1. Cover automated testing
-    * Build up a test framework from scratch
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
-        * [Classes](http://jsbin.com/nukamun/edit?js,output)
-        * [QUnit documentation](http://qunitjs.com/)
-    * Other frameworks
-1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
-    * Network tab in Developer Tools
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 
 #### Homework
+* None
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
-* [Memory V3](https://github.com/advanced-js/memory#v3)
+<!--################### Lecture 04 ######################-->
 
-### Class 4
+### <b><span style="color:blue">[Sep 17]</span></b> Lecture 04
+<b><span style="color:red">Estimate probability density, Probability theory</span></b>
 
-1. Finish slides
-1. Getting Serious example
-    * Quick intro to Backbone.js
-        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
-        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
-        * TDD?
-1. Multiple async
-    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 
 #### Homework
+* None
 
-* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
-* [Mashup](https://github.com/advanced-js/mashup)
-* Improve your previous assignments
+<!--################### Lecture 05 ######################-->
 
-### Class 5
+### <b><span style="color:blue">[Sep 24]</span></b> Lecture 05
+<b><span style="color:red">Statistical methods, Bayesian statistics</span></b>
 
-1. Present and code review Mashup projects
-1. Possible topics (vote?):
-    * Node.js
-        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
-            * [HTTP module docs](http://nodejs.org/api/http.html)
-        * HTTP requests
-            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
-            * Headers
-        * CommonJS?
-    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input from a text area, e.g.
-            * Link Twitter handles
-            * Substitute select words for emoji, using [emoji-css](http://afeld.github.io/emoji-css/)
-    * Object-Oriented design
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
-        * [Game of Life](http://coderetreat.org/gol)
-        * Tic Tac Toe
+#### Goals
+* Learn stuff
 
-## Pairing Tips
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
+#### Homework
+* None
+
+<!--################### Lecture 06 ######################-->
+
+### <b><span style="color:blue">[Oct 01]</span></b> Lecture 06
+<b><span style="color:red">Markov-chain Monte Carlo in practice, Stochastic processes and Markov-chain theory</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 07 ######################-->
+
+### <b><span style="color:blue">[Oct 08]</span></b> Lecture 07
+<b><span style="color:red">Variational inference</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 08 ######################-->
+
+### <b><span style="color:blue">[Oct 15]</span></b> Lecture 08
+<b><span style="color:red">Optimization</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 09 ######################-->
+
+### <b><span style="color:blue">[Oct 22]</span></b> Lecture 09
+<b><span style="color:red">Frameworks for computational graphs and probabilistic programming</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 10 ######################-->
+
+### <b><span style="color:blue">[Oct 29]</span></b> Lecture 10
+<b><span style="color:red">Bayesian model selection</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 11 ######################-->
+
+### <b><span style="color:blue">[Nov 05]</span></b> Lecture 11
+<b><span style="color:red">Learning in a probabilistic context</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 12 ######################-->
+
+### <b><span style="color:blue">[Nov 12]</span></b> Lecture 12
+<b><span style="color:red">Supervised learning in Scikit Learn</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 13 ######################-->
+
+### <b><span style="color:blue">[Nov 26]</span></b> Lecture 13
+<b><span style="color:red">Cross validation</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 14 ######################-->
+
+### <b><span style="color:blue">[Dec 03]</span></b> Lecture 14
+<b><span style="color:red">Neural networks</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
+
+<!--################### Lecture 15 ######################-->
+
+### <b><span style="color:blue">[Dec 10]</span></b> Lecture 15
+<b><span style="color:red">Deep learning</span></b>
+
+#### Goals
+* Learn stuff
+
+#### Lecture notebook(s)
+* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+
+#### Homework
+* None
 
 ## Resources
 
