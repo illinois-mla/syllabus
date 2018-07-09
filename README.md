@@ -87,6 +87,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 02 ######################-->
 
 ### <span style="color:blue">[Sep 03]</span> Lecture 02: <span style="color:red">Data Science</span>
@@ -102,6 +104,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 <!--################### Lecture 03 ######################-->
 
@@ -120,6 +124,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 04 ######################-->
 
 ### <span style="color:blue">[Sep 17]</span> Lecture 04: <span style="color:red">Probability</span>
@@ -135,6 +141,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 05 ######################-->
 
 ### <span style="color:blue">[Sep 24]</span> Lecture 05: <span style="color:red">Statistics</span>
@@ -149,6 +157,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 <!--################### Lecture 06 ######################-->
 
@@ -183,6 +193,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 08 ######################-->
 
 ### <span style="color:blue">[Oct 15]</span> Lecture 08: <span style="color:red">Optimization</span>
@@ -195,6 +207,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 <!--################### Lecture 09 ######################-->
 
@@ -210,6 +224,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 10 ######################-->
 
 ### <span style="color:blue">[Oct 29]</span> Lecture 10: <span style="color:red">Bayesian Models</span>
@@ -222,6 +238,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 <!--################### Lecture 11 ######################-->
 
@@ -236,6 +254,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 12 ######################-->
 
 ### <span style="color:blue">[Nov 12]</span> Lecture 12: <span style="color:red">Supervised Learning</span>
@@ -248,6 +268,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 <!--################### Lecture 13 ######################-->
 
@@ -262,6 +284,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 14 ######################-->
 
 ### <span style="color:blue">[Dec 03]</span> Lecture 14: <span style="color:red">Neural Networks</span>
@@ -275,6 +299,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Homework
 * None
 
+#### Supplemental reading
+
 <!--################### Lecture 15 ######################-->
 
 ### <span style="color:blue">[Dec 10]</span> Lecture 15: <span style="color:red">Deep Learning</span>
@@ -287,6 +313,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Homework
 * None
+
+#### Supplemental reading
 
 ## Resources
 
