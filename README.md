@@ -357,7 +357,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Class Participation – 30%
 * Homework – 70%
 
-## Bottom
+## _________________________________________
 
 Material for a [University of Illinois](http://illinois.edu) course offered by the [Physics Department](https://physics.illinois.edu).
 
