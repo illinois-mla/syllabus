@@ -4,3 +4,6 @@ pong_data.tsv
 
 # Template for creating new notebooks
 TEMPLATE.ipynb
+
+# Notebook checkpoints
+.ipynb_checkpoints
