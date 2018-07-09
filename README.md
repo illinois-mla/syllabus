@@ -79,7 +79,10 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Setting up your environment
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb)
+* [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Homework.ipynb)
+* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Intro.ipynb)
 
 #### Homework
 * None
@@ -93,7 +96,9 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about handling and visualizing scientific data
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/JupyterNumpy.ipynb)
+* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Pandas.ipynb)
+* [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Visualization.ipynb)
 
 #### Homework
 * None
@@ -108,7 +113,9 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Adapt linear models to nonlinear problems
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Clustering.ipynb)
+* [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
+* [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
 * None
@@ -122,7 +129,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Probability Theory
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Estimate probability density](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Density.ipynb)
+* [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Probability.ipynb)
 
 #### Homework
 * None
@@ -136,7 +144,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Bayesian Statistics
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Statistics.ipynb)
+* [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Bayes.ipynb)
 
 #### Homework
 * None
@@ -152,6 +161,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Lecture notebook(s)
 * [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/MCMC.ipynb)
+* [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Markov.ipynb)
 
 #### Homework
 * None
@@ -167,7 +178,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Variational Inference
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Variational.ipynb)
 
 #### Homework
 * None
@@ -180,7 +191,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Optimization
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Optimization.ipynb)
 
 #### Homework
 * None
@@ -194,7 +205,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Frameworks.ipynb)
 
 #### Homework
 * None
@@ -207,7 +218,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Bayesian model selection
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/ModelSelection.ipynb)
 
 #### Homework
 * None
@@ -220,7 +231,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learning in a probabilistic context
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Learning.ipynb)
 
 #### Homework
 * None
@@ -233,7 +244,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Supervised learning in scikit-learn
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Supervised.ipynb)
 
 #### Homework
 * None
@@ -246,7 +257,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Cross Validation
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/CrossValidation.ipynb)
 
 #### Homework
 * None
@@ -259,7 +270,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Neural Networks
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/NeuralNetworks.ipynb)
 
 #### Homework
 * None
@@ -272,7 +283,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Learn about Deep Learning
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/DeepLearning.ipynb)"
 
 #### Homework
 * None
