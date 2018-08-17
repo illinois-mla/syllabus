@@ -336,8 +336,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Tools
 
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
+* Sharing code snippets: [gist.github.com](https://gist.github.com/)
+* Asking questions: [Stack Overflow](http://stackoverflow.com/)
 
 #### GitHub
 
