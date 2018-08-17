@@ -354,8 +354,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ## Grading
 
-* Class Participation – 30%
-* Homework – 70%
+* Class Participation: 30%
+* Homework: 70%
 
 ## _________________________________________
 
