@@ -339,6 +339,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ## Grading
 
 * TBD
+
 <!--
 * Class Participation: 30%
 * Homework: 70%
