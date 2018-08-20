@@ -29,10 +29,10 @@ In this course, you will learn the fundamentals of how to analyze and interpret 
 * Credit for [PHYS 225](https://physics.illinois.edu/academics/courses/profile/PHYS225) and [PHYS 325](https://physics.illinois.edu/academics/courses/profile/PHYS325)
 
 ### Hardware
-* It is assumed that you have a Mac or Windows laptop for use both inside and outside of the class.
+* You need a laptop for this course. It is assumed that you have a Mac or Windows laptop for use both inside and outside of the class.
 
 ### Software
-* Some knowledge of python preferred but not required. You do need to have knowledge of the basics of computer programming.
+* Some knowledge of python preferred but not required. You do need to have a working knowledge of the basics of computer programming.
 
 ### Setting up your environment
 * There is some setup required to ensure a consistent and functioning software environment on your computer to use the Jupyter notebooks in this course. This setup is detailed [here](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course.
@@ -90,7 +90,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 02 ######################-->
-
+<!--
 ### <span style="color:blue">[Sep 03]</span> Lecture 02: <span style="color:red">Data Science</span>
 
 #### Goals
@@ -108,7 +108,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 03 ######################-->
-
+<!--
 ### <span style="color:blue">[Sep 10]</span> Lecture 03: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
@@ -127,7 +127,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 04 ######################-->
-
+<!--
 ### <span style="color:blue">[Sep 17]</span> Lecture 04: <span style="color:red">Probability</span>
 
 #### Goals
@@ -144,7 +144,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 05 ######################-->
-
+<!--
 ### <span style="color:blue">[Sep 24]</span> Lecture 05: <span style="color:red">Statistics</span>
 
 #### Goals
@@ -161,7 +161,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 06 ######################-->
-
+<!--
 ### <span style="color:blue">[Oct 01]</span> Lecture 06: <span style="color:red">Stochastic processes & Markov chains</span>
 
 #### Goals
@@ -181,7 +181,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
 
 <!--################### Lecture 07 ######################-->
-
+<!--
 ### <span style="color:blue">[Oct 08]</span> Lecture 07: <span style="color:red">Variational Inference</span>
 
 #### Goals
@@ -196,7 +196,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 08 ######################-->
-
+<!--
 ### <span style="color:blue">[Oct 15]</span> Lecture 08: <span style="color:red">Optimization</span>
 
 #### Goals
@@ -211,7 +211,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 09 ######################-->
-
+<!--
 ### <span style="color:blue">[Oct 22]</span> Lecture 09: <span style="color:red">Comput. Graphs & Probabilistic Programming</span>
 
 #### Goals
@@ -227,7 +227,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 10 ######################-->
-
+<!--
 ### <span style="color:blue">[Oct 29]</span> Lecture 10: <span style="color:red">Bayesian Models</span>
 
 #### Goals
@@ -242,7 +242,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 11 ######################-->
-
+<!--
 ### <span style="color:blue">[Nov 05]</span> Lecture 11: <span style="color:red">Probabilistic Learning</span>
 
 #### Goals
@@ -257,7 +257,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 12 ######################-->
-
+<!--
 ### <span style="color:blue">[Nov 12]</span> Lecture 12: <span style="color:red">Supervised Learning</span>
 
 #### Goals
@@ -272,7 +272,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 13 ######################-->
-
+<!--
 ### <span style="color:blue">[Nov 26]</span> Lecture 13: <span style="color:red">Cross Validation</span>
 
 #### Goals
@@ -287,7 +287,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 14 ######################-->
-
+<!--
 ### <span style="color:blue">[Dec 03]</span> Lecture 14: <span style="color:red">Neural Networks</span>
 
 #### Goals
@@ -302,7 +302,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 #### Supplemental reading
 
 <!--################### Lecture 15 ######################-->
-
+<!--
 ### <span style="color:blue">[Dec 10]</span> Lecture 15: <span style="color:red">Deep Learning</span>
 
 #### Goals
@@ -315,24 +315,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 * None
 
 #### Supplemental reading
-
+-->
 ## Resources
 
-### Required Reading
+### References
 
-* Stuff
-
-### Recommended Reading
-
-* Stuff
-
-#### Specific Topics
-
-* Stuff
-
-#### Other Lists
-
-* Stuff
+* You can find the references list, including required and recommended reading, at [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
 
 ### Tools
 
@@ -348,14 +336,18 @@ All assignments are listed within the [Course Outline](#course-outline).
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-### Reference
-
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-
 ## Grading
 
+* TBD
+<!--
 * Class Participation: 30%
 * Homework: 70%
+* Research project: XX%
+-->
+
+## Acknowledgements
+
+I would like to acknowledge David Kirby at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I also acknowledge the course at href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
 
 ## _________________________________________
 
