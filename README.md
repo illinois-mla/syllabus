@@ -348,7 +348,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ## Acknowledgements
 
-I would like to acknowledge David Kirby at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I also acknowledge the course at <href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
+I would like to acknowledge David Kirby at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I also acknowledge the course at <a href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
 
 ## _________________________________________
 
