@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <b><span style="color:blue">Data Analysis and Machine Learning Applications (for Physicists)</span></b>
+# <b><span style="color:blue">Data Analysis and Machine Learning Applications</span></b>
 ![](assets/pynstein.jpg)
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
