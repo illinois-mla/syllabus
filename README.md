@@ -8,7 +8,7 @@ permalink: /
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
 * **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/profile/PHYS398MLA-120188)
-* **Instructor:** Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
+* **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
 * **TA:** Dewen Zhong, [dzhong6@illinois.edu](mailto:dzhong6@illinois.edu)
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
 * **Need help?**
@@ -18,18 +18,24 @@ permalink: /
     * Office Hours : TBD
    * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
 
-## Course Description
+## <span style="color:Red">Course Description</span>
 
-In this course, you will learn the fundamentals of how to analyze and interpret scientific data and apply modern machine learning tools and techniques to problems such as classification and regression.
+Welcome you to the Data Analysis and Machine Learning Application (for physicists) course!
 
-## Prerequisites
+In this course, you will learn fundamentals of how to analyze and interpret scientific data and apply modern machine learning tools and techniques to problems common in physics research such as classification and regression. This course offering is very timely given the explosion of interest and rapid development of data science and artificial intelligence. Every day there are new applications of machine learning to the physical sciences in ways that are advancing our knowledge of nature.
+
+This course is designed to be interactive and collaborative, at the same time developing your own skills and knowledge (and course grade :). I initiated this course out of my view that we live in an increasingly data-centeric world, with both people and machines learning from vast amounts of data. There has never been a time where early-career physicists were more in need of a solid understanding in the basics of scientific data analysis, data-driven inference and machine learning, and a working knowledge of the most important tools and techniques from modern data science than today.
+
+This is a new course and unlike any that is being taught in our Department. As such, I ask for your feedback on any aspect of the course so that I can work to improve the curriculum.
+
+## <span style="color:Red">Prerequisites</span>
 
 ### Courses
 * Credit or Concurrent Registration: [MATH 285](https://netmath.illinois.edu/college/math-285)
 * Credit for [PHYS 225](https://physics.illinois.edu/academics/courses/profile/PHYS225) and [PHYS 325](https://physics.illinois.edu/academics/courses/profile/PHYS325)
 
 ### Hardware
-* You need a laptop for this course. It is assumed that you have a Mac or Windows laptop for use both inside and outside of the class.
+* You need a laptop for this course. It is assumed that you have a laptop running MacOS, Linux or Windows for use both inside and outside of the class.
 
 ### Software
 * Some knowledge of python preferred but not required. You do need to have a working knowledge of the basics of computer programming.
@@ -37,57 +43,80 @@ In this course, you will learn the fundamentals of how to analyze and interpret 
 ### Setting up your environment
 * There is some setup required to ensure a consistent and functioning software environment on your computer to use the Jupyter notebooks in this course. This setup is detailed [here](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course.
 
-## Course Overview
+## <span style="color:Red">Course Overview</span>
 
 Topics covered include:
 
-* Notebooks and numerical python
-* Handling and Visualizing Data
-* Finding structure in data
-* Measuring and reducing dimensionality
-* Adapting linear methods to nonlinear problems
-* Estimating probability density
-* Probability theory
-* Statistical methods
-* Bayesian statistics
-* Markov-chain Monte Carlo in practice
-* Stochastic processes and Markov-chain theory
-* Variational inference
-* Optimization
-* Computational graphs and probabilistic programming
-* Bayesian model selection
-* Learning in a probabilistic context
-* Supervised learning in Scikit-Learn
-* Cross validation
-* Neural networks
-* Deep learning
+* *Notebooks and numerical python*
+* *Handling and Visualizing Data*
+* *Finding structure in data*
+* *Measuring and reducing dimensionality*
+* *Adapting linear methods to nonlinear problems*
+* *Estimating probability density*
+* *Probability theory*
+* *Statistical methods*
+* *Bayesian statistics*
+* *Markov-chain Monte Carlo in practice*
+* *Stochastic processes and Markov-chain theory*
+* *Variational inference*
+* *Optimization*
+* *Computational graphs and probabilistic programming*
+* *Bayesian model selection*
+* *Learning in a probabilistic context*
+* *Supervised learning in Scikit-Learn*
+* *Cross validation*
+* *Neural networks*
+* *Deep learning*
 
 Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks, available at [syllabus/notebooks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks).
 
-## Homework/Projects
+## <span style="color:Red">Class Participation</span>
 
-All assignments are listed within the [Course Outline](#course-outline).
+The lectures will include physics and data science pedagogy, demonstrated through live examples in Jupyter notebooks that you will work through in class. You are required to attend each lecture with your laptop and working environment. Attendance will be taken.
 
-## Course Outline
+## <span style="color:Red">Homework</span>
+
+Homework is an important part of the course where you will have an opportunity to apply the techniques you are learning to problems relevant to the analysis of scientific data. All assignments are listed within the [Course Outline](#course-outline). You will submit your homework via your private Github repository.
+
+## <span style="color:Red">Projects</span>
+
+Approximately halfway through the course, you will have the opportunity to choose from a set of projects that use open scientific data. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
+
+## <span style="color:Red">Grading</span>
+
+* *Class Participation*: **~30%**
+* *Homework*: **~50%**
+* *Research project*: **~20%**
+
+## <span style="color:Red">Course Outline</span>
 
 <!--################### Lecture 01 ######################-->
 
-### <span style="color:blue">[Aug 27]</span> Lecture 01: <span style="color:red">Introduction</span>
+### <span style="color:blue">[Aug 27]</span> **Lecture 01**: <span style="color:red">*Introduction*</span>
 
-#### Goals
+#### *Goals*
 * Getting overview of the course, including reading list and homework assignments
 * Setting up your environment
 
-#### Lecture notebook(s)
-* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb)
+#### *Lecture notebooks*
 * [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
-* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Homework.ipynb)
 * [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Intro.ipynb)
+* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Homework.ipynb)
 
-#### Homework
+#### *Homework*
+* Complete setting up your environment so that you can launch and execute notebooks
+
+#### *Required reading*
+* *A Whirlwind Tour of Python*, Jake VanderPlas: [free PDF](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf), notebooks [online](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb).
+
+#### *Supplemental reading*
 * None
 
-#### Supplemental reading
+<!--################### Lecture 02 ######################-->
+
+### <span style="color:blue">[Sep 03]</span> NO LECTURE (Labor Day)
+
 
 <!--################### Lecture 02 ######################-->
 <!--
@@ -316,39 +345,54 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### Supplemental reading
 -->
-## Resources
+
+## _________________________________________
+
+## <span style="color:Red">Resources</span>
 
 ### References
 
 * You can find the references list, including required and recommended reading, at [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
 
+* Some quick reference guides
+    * [Linux Bash Shell](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
+    * [Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+    * [Conda](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+    * [Python](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
+    * [Markdown](http://packetlife.net/media/library/16/Markdown.pdf)
+    * Jupyter Notebooks: [Interface](http://datacamp-community.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40), [Keyboard shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw)
+
 ### Tools
 
 * Sharing code snippets: [gist.github.com](https://gist.github.com/)
-* Asking questions: [Stack Overflow](http://stackoverflow.com/)
+* Asking questions of broader development community: [Stack Overflow](http://stackoverflow.com/)
 
-#### GitHub
+#### *Git* and *GitHub*
 
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+* [Official GitHub Help](https://help.github.com/)
+* [Recommended resources](http://hackerhours.org/resources.html#github)
 
-## Grading
+#### *Anaconda* and *Conda*
+* [Official site](https://www.anaconda.com)
+* [Conda](https://conda.io/docs)
 
-* TBD
+#### *Project Jupyter*
+* [Official site](http://jupyter.org)
+* [nbviewer](https://nbviewer.jupyter.org)
 
-<!--
-* Class Participation: 30%
-* Homework: 70%
-* Research project: XX%
--->
+#### *Atom*
+I found the Atom editor to be the best option. It has full Github integration which avoids having to type git commands every time
+* [Official Site](https://atom.io)
 
-## Acknowledgements
+With a plug-in, it also does latex syntax highlighting. Install it with:
 
-I would like to acknowledge David Kirby at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I also acknowledge the course at <a href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
+``apm install latex``
+
+``apm install language-latex``
+
+## <span style="color:Red">Acknowledgements</span>
+
+I would like to acknowledge [David Kirby](https://github.com/dkirkby) at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I would like to thank [Matthew Feickert](https://github.com/matthewfeickert) for his guidance and contributions to the course. I also acknowledge the course at <a href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
 
 ## _________________________________________
 
