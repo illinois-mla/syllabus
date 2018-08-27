@@ -9,6 +9,6 @@ setup(
     author_email='msn@illinois.edu',
     license='BSD3',
     packages=['mls'],
-    install_requires=[ ],
+    install_requires=['setuptools-git'],
     include_package_data=True,
     zip_safe=False)
