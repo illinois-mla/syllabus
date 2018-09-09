@@ -137,6 +137,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 <!--################### Lecture 03 ######################-->
 <!--
