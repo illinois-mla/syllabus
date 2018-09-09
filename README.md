@@ -119,8 +119,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 
 <!--################### Lecture 02 ######################-->
-<!--
-### <span style="color:blue">[Sep 03]</span> Lecture 02: <span style="color:red">Data Science</span>
+
+### <span style="color:blue">[Sep 10]</span> Lecture 02: <span style="color:red">Data Science</span>
 
 #### Goals
 * Gain familiarity with Jupyter Notebooks and Numerical python
@@ -135,6 +135,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
+* None
 
 <!--################### Lecture 03 ######################-->
 <!--
