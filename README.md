@@ -135,7 +135,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
-* None
+* [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
+
 
 <!--################### Lecture 03 ######################-->
 <!--
