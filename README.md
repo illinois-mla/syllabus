@@ -138,12 +138,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
 
 <!--################### Lecture 03 ######################-->
-<!--
-### <span style="color:blue">[Sep 10]</span> Lecture 03: <span style="color:red">Dimensionality & Linearity</span>
 
+### <span style="color:blue">[Sep 17]</span> Lecture 03: <span style="color:red">Dimensionality & Linearity</span>
+
+<!--
 #### Goals
 * Find structure in data
 * Measure and reduce dimensionality
