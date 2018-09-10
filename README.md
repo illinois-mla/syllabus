@@ -92,7 +92,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 01 ######################-->
 
-### <span style="color:blue">[Aug 27]</span> **Lecture 01**: <span style="color:red">*Introduction*</span>
+### <span style="color:blue">[Aug 27]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
 
 #### *Goals*
 * Getting overview of the course, including reading list and homework assignments
@@ -113,14 +113,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### *Supplemental reading*
 * None
 
-<!--################### Lecture 02 ######################-->
+<!--################### NO Lecture ######################-->
 
 ### <span style="color:blue">[Sep 03]</span> NO LECTURE (Labor Day)
 
-
 <!--################### Lecture 02 ######################-->
 
-### <span style="color:blue">[Sep 10]</span> Lecture 02: <span style="color:red">Data Science</span>
+### <span style="color:blue">[Sep 10]</span> Lec 02: <span style="color:red">Data Science</span>
 
 #### Goals
 * Gain familiarity with Jupyter Notebooks and Numerical python
@@ -132,7 +131,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Visualization.ipynb)
 
 #### Homework
-* None
+* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
+  * Released on Monday, Sep 10
+  * Due by __5:00 pm CDT__ on __Thursday, Sept 20__
 
 #### Supplemental reading
 * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
@@ -142,9 +143,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 17]</span> Lecture 03: <span style="color:red">Dimensionality & Linearity</span>
-
 <!--
+### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Dimensionality & Linearity</span>
+
 #### Goals
 * Find structure in data
 * Measure and reduce dimensionality
@@ -156,13 +157,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
-* None
 
 #### Supplemental reading
 
 <!--################### Lecture 04 ######################-->
+
 <!--
-### <span style="color:blue">[Sep 17]</span> Lecture 04: <span style="color:red">Probability</span>
+### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Probability</span>
 
 #### Goals
 * Estimate probability density
@@ -178,9 +179,11 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 
 <!--################### Lecture 05 ######################-->
-<!--
-### <span style="color:blue">[Sep 24]</span> Lecture 05: <span style="color:red">Statistics</span>
 
+<!--
+### <span style="color:blue">[Oct 01]</span> Lec 05: <span style="color:red">Statistics</span>
+
+<!--
 #### Goals
 * Learn about Statistical Methods
 * Learn about Bayesian Statistics
@@ -196,15 +199,15 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 06 ######################-->
 <!--
-### <span style="color:blue">[Oct 01]</span> Lecture 06: <span style="color:red">Stochastic processes & Markov chains</span>
+### <span style="color:blue">[Oct 08]</span> Lec 06: <span style="color:red">Stochastic processes & Markov chains</span>
 
+<!--
 #### Goals
 * Learn about Stochastic processes
 * Learn about Markov-chain Theory
 * Markov-chain Monte Carlo put in practice
 
 #### Lecture notebook(s)
-* [Intro.ipynb](DataAnalysisMachineLearningApplications/notebooks/Intro.ipynb)
 * [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/MCMC.ipynb)
 * [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Markov.ipynb)
 
@@ -216,13 +219,16 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 07 ######################-->
 <!--
-### <span style="color:blue">[Oct 08]</span> Lecture 07: <span style="color:red">Variational Inference</span>
+### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Variational Inference and Optimization</span>
 
+<!--
 #### Goals
 * Learn about Variational Inference
+* Learn about Optimization and Stochastic Gradient Descent
 
 #### Lecture notebook(s)
 * [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Variational.ipynb)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Optimization.ipynb)
 
 #### Homework
 * None
@@ -231,13 +237,16 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 08 ######################-->
 <!--
-### <span style="color:blue">[Oct 15]</span> Lecture 08: <span style="color:red">Optimization</span>
+### <span style="color:blue">[Oct 22]</span> Lec 08: <span style="color:red">Comput. Graphs, Prob. Prog. & Bayesian Models</span>
 
+<!--
 #### Goals
-* Learn about Optimization
+* Learn about Frameworks for Computational Graphs
+* Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
-* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Optimization.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Frameworks.ipynb)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/ModelSelection.ipynb)
 
 #### Homework
 * None
@@ -246,14 +255,14 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 09 ######################-->
 <!--
-### <span style="color:blue">[Oct 22]</span> Lecture 09: <span style="color:red">Comput. Graphs & Probabilistic Programming</span>
+### <span style="color:blue">[Oct 29]</span> Lec 09: <span style="color:red">Probabilistic Learning & Supervised Learning </span>
 
+<!--
 #### Goals
-* Learn about Frameworks for Computational Graphs
-* Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
-* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Frameworks.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Learning.ipynb)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Supervised.ipynb)
 
 #### Homework
 * None
@@ -262,53 +271,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 10 ######################-->
 <!--
-### <span style="color:blue">[Oct 29]</span> Lecture 10: <span style="color:red">Bayesian Models</span>
+### <span style="color:blue">[Nov 05]</span> Lec 10: <span style="color:red">Cross Validation</span>
 
-#### Goals
-* Learn about Bayesian model selection
-
-#### Lecture notebook(s)
-* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/ModelSelection.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
-<!--################### Lecture 11 ######################-->
 <!--
-### <span style="color:blue">[Nov 05]</span> Lecture 11: <span style="color:red">Probabilistic Learning</span>
-
-#### Goals
-* Learning in a probabilistic context
-
-#### Lecture notebook(s)
-* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Learning.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
-<!--################### Lecture 12 ######################-->
-<!--
-### <span style="color:blue">[Nov 12]</span> Lecture 12: <span style="color:red">Supervised Learning</span>
-
-#### Goals
-* Supervised learning in scikit-learn
-
-#### Lecture notebook(s)
-* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Supervised.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
-<!--################### Lecture 13 ######################-->
-<!--
-### <span style="color:blue">[Nov 26]</span> Lecture 13: <span style="color:red">Cross Validation</span>
-
 #### Goals
 * Learn about Cross Validation
 
@@ -320,15 +285,66 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
+<!--################### Lecture 11 ######################-->
+<!--
+### <span style="color:blue">[Nov 12]</span> Lec 11: <span style="color:red">Artificial Neural Networks</span>
+
+<!--
+#### Goals
+* Learning in a Neural Networks
+
+#### Lecture notebook(s)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/NeuralNetworks.ipynb)
+
+#### Homework
+* None
+
+#### Supplemental reading
+
+<!--################### NO Lecture ######################-->
+
+<!--
+### <span style="color:blue">[Nov 19]</span> NO LECTURE (Fall Break)
+
+<!--################### Lecture 12 ######################-->
+<!--
+### <span style="color:blue">[Nov 26]</span> Lec 12: <span style="color:red">Deep Learning I</span>
+
+<!--
+#### Goals
+* Learn about Deep Learning
+
+#### Lecture notebook(s)
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/DeepLearning.ipynb)"
+
+#### Homework
+* None
+
+#### Supplemental reading
+
+<!--################### Lecture 13 ######################-->
+<!--
+### <span style="color:blue">[Dec 03]</span> Lec 13: <span style="color:red">Deep Learning II</span>
+
+<!--
+#### Goals
+
+#### Lecture notebook(s)
+
+#### Homework
+* None
+
+#### Supplemental reading
+
 <!--################### Lecture 14 ######################-->
 <!--
-### <span style="color:blue">[Dec 03]</span> Lecture 14: <span style="color:red">Neural Networks</span>
+### <span style="color:blue">[Dec 10]</span> Lec 14: <span style="color:red">Deep Learning III</span>
 
+<!--
 #### Goals
 * Learn about Neural Networks
 
 #### Lecture notebook(s)
-* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/NeuralNetworks.ipynb)
 
 #### Homework
 * None
@@ -340,10 +356,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 ### <span style="color:blue">[Dec 10]</span> Lecture 15: <span style="color:red">Deep Learning</span>
 
 #### Goals
-* Learn about Deep Learning
 
 #### Lecture notebook(s)
-* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/DeepLearning.ipynb)"
 
 #### Homework
 * None
