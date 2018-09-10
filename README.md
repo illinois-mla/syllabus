@@ -126,12 +126,12 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about handling and visualizing scientific data
 
 #### Lecture notebook(s)
-* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/JupyterNumpy.ipynb)
-* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Pandas.ipynb)
-* [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Visualization.ipynb)
+* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
+* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
+* [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
 
 #### Homework
-* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
+* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
   * Released on Monday, Sep 10
   * Due by __3:00 pm CDT__ on __Monday, Sept 17__
 
