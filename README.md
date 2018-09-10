@@ -133,7 +133,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Homework
 * [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
   * Released on Monday, Sep 10
-  * Due by __5:00 pm CDT__ on __Thursday, Sept 20__
+  * Due by __3:00 pm CDT__ on __Monday, Sept 17__
 
 #### Supplemental reading
 * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
