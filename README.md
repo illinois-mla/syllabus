@@ -144,11 +144,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Visualizing & Clustering Data</span>
+### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Visualizing & Finding Structure in Data</span>
 
 #### Goals
 * Learn about visualizing data
+* Learn about the importance of clustering data in physics
 * Learn how to find structure in data (clustering)
+   * KMeans, Spectral Clustering, DBSCAN
 
 #### Lecture notebook(s)
 * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
@@ -158,6 +160,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 * [Scikit-learn](http://scikit-learn.org)
+* [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
+
 
 <!--################### Lecture 04 ######################-->
 
