@@ -144,7 +144,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Dimensionality & Linearity</span>
+### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Visualizing & Clustering Data</span>
 
 #### Goals
 * Learn about visualizing data
@@ -162,6 +162,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 <!--################### Lecture 04 ######################-->
 
 <!--
+### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Dimensionality & Linearity</span>
 * Measure and reduce dimensionality
 * Adapt linear models to nonlinear problems
 * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
