@@ -125,12 +125,11 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Goals
 * Gain familiarity with Jupyter Notebooks and Numerical python
-* Learn about handling and visualizing scientific data
+* Learn about handling and describing data
 
 #### Lecture notebook(s)
 * [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
 * [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
-* [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
 
 #### Homework
 * [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
@@ -145,24 +144,28 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 03 ######################-->
 
-<!--
 ### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
-* Find structure in data
-* Measure and reduce dimensionality
-* Adapt linear models to nonlinear problems
+* Learn about visualizing data
+* Learn how to find structure in data (clustering)
 
 #### Lecture notebook(s)
+* [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
 * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Clustering.ipynb)
-* [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
-* [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
 
 #### Supplemental reading
+* [Scikit-learn](http://scikit-learn.org)
 
 <!--################### Lecture 04 ######################-->
+
+<!--
+* Measure and reduce dimensionality
+* Adapt linear models to nonlinear problems
+* [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
+* [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 <!--
 ### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Probability</span>
