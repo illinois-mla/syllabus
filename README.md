@@ -163,7 +163,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Scikit-learn](http://scikit-learn.org)
 * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
 
-
 <!--################### Lecture 04 ######################-->
 
 ### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Dimensionality & Linearity</span>
@@ -177,7 +176,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
-* TBD
+* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
+  * Released on Monday, Sep 24
+  * Due by __3:00 pm CDT__ on __Oct, Sept 1__
 
 #### Supplemental reading
 
