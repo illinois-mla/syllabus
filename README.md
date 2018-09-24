@@ -165,12 +165,18 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 04 ######################-->
 
-<!--
-### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Dimensionality & Linearity</span>
+### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Dimensionality & Linearity</span>
 * Measure and reduce dimensionality
 * Adapt linear models to nonlinear problems
 * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
 * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
+
+#### Homework
+* TBD
+
+#### Supplemental reading
+
+<!--################### Lecture 05 ######################-->
 
 <!--
 ### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Probability</span>
@@ -182,13 +188,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Lecture notebook(s)
 * [Estimate probability density](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Density.ipynb)
 * [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Probability.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
-<!--################### Lecture 05 ######################-->
 
 <!--
 ### <span style="color:blue">[Oct 01]</span> Lec 05: <span style="color:red">Statistics</span>
