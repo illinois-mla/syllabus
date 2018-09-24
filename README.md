@@ -157,6 +157,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Clustering.ipynb)
 
 #### Homework
+* None
 
 #### Supplemental reading
 * [Scikit-learn](http://scikit-learn.org)
@@ -166,8 +167,12 @@ Approximately halfway through the course, you will have the opportunity to choos
 <!--################### Lecture 04 ######################-->
 
 ### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Dimensionality & Linearity</span>
+
+#### Goals
 * Measure and reduce dimensionality
 * Adapt linear models to nonlinear problems
+
+#### Lecture notebook(s)
 * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
 * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
