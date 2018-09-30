@@ -178,7 +178,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Homework
 * [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
   * Released on Monday, Sep 24
-  * Due by __3:00 pm CDT__ on __Oct, Sept 1__
+  * Due by __3:00 pm CDT__ on __Monday, Oct 1__
 
 #### Supplemental reading
 
