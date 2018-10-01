@@ -181,7 +181,8 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Due by __3:00 pm CDT__ on __Monday, Oct 1__
 
 #### Supplemental reading
-* None
+* [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+* [Blind Signal Separation](https://en.wikipedia.org/wiki/Blind_signal_separation)
 
 <!--################### Lecture 05 ######################-->
 
