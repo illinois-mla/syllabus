@@ -181,18 +181,18 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Due by __3:00 pm CDT__ on __Monday, Oct 1__
 
 #### Supplemental reading
+* None
 
 <!--################### Lecture 05 ######################-->
 
-<!--
-### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Probability</span>
+### <span style="color:blue">[Oct 1]</span> Lec 05: <span style="color:red">Kernel Functions and Probability Theory</span>
 
 #### Goals
-* Estimate probability density
+* Learn about Kernel functions
 * Learn about Probability Theory
 
 #### Lecture notebook(s)
-* [Estimate probability density](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Density.ipynb)
+* [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 * [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Probability.ipynb)
 
 <!--
@@ -200,10 +200,12 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--
 #### Goals
+* Estimate probability density
 * Learn about Statistical Methods
 * Learn about Bayesian Statistics
 
 #### Lecture notebook(s)
+* [Estimate probability density from Data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Density.ipynb)
 * [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Statistics.ipynb)
 * [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Bayes.ipynb)
 
