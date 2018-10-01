@@ -176,7 +176,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
-* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
+* [Homework 2](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
   * Released on Monday, Sep 24
   * Due by __3:00 pm CDT__ on __Monday, Oct 1__
 
@@ -194,6 +194,14 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Lecture notebook(s)
 * [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
 * [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Probability.ipynb)
+
+#### Homework
+* [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
+  * Released on Monday, Oct 1
+  * Due by __3:00 pm CDT__ on __Monday, Oct 8__
+
+#### Supplemental reading
+  * None
 
 <!--
 ### <span style="color:blue">[Oct 01]</span> Lec 05: <span style="color:red">Statistics</span>
