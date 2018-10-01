@@ -193,8 +193,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Probability Theory
 
 #### Lecture notebook(s)
-* [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
-* [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Probability.ipynb)
+* [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
+* [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Probability.ipynb)
 
 #### Homework
 * [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
