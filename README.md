@@ -201,7 +201,10 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Due by __3:00 pm CDT__ on __Monday, Oct 8__
 
 #### Supplemental reading
-  * None
+  * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
+  * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
+  * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
+  * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
 
 <!--
 ### <span style="color:blue">[Oct 01]</span> Lec 05: <span style="color:red">Statistics</span>
