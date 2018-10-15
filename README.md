@@ -121,7 +121,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 02 ######################-->
 
-### <span style="color:blue">[Sep 10]</span> Lec 02: <span style="color:red">Data Science</span>
+### <span style="color:blue">[Sep 10]</span> **Lec 02**: <span style="color:red">Data Science</span>
 
 #### Goals
 * Gain familiarity with Jupyter Notebooks and Numerical python
@@ -144,7 +144,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 17]</span> Lec 03: <span style="color:red">Visualizing & Finding Structure in Data</span>
+### <span style="color:blue">[Sep 17]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
 
 #### Goals
 * Learn about visualizing data
@@ -165,7 +165,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 04 ######################-->
 
-### <span style="color:blue">[Sep 24]</span> Lec 04: <span style="color:red">Dimensionality & Linearity</span>
+### <span style="color:blue">[Sep 24]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
 * Measure and reduce dimensionality
@@ -186,7 +186,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 05 ######################-->
 
-### <span style="color:blue">[Oct 1]</span> Lec 05: <span style="color:red">Kernel Functions and Probability Theory</span>
+### <span style="color:blue">[Oct 1]</span> **Lec 05**: <span style="color:red">Kernel Functions and Probability Theory</span>
 
 #### Goals
 * Learn about Kernel functions
@@ -207,9 +207,9 @@ Approximately halfway through the course, you will have the opportunity to choos
   * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
   * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
 
-<!--################### Lecture 05 ######################-->
+<!--################### Lecture 06 ######################-->
 
-### <span style="color:blue">[Oct 08]</span> Lec 06: <span style="color:red">Probability Density Estimation and Statistics</span>
+### <span style="color:blue">[Oct 08]</span> **Lec 06**: <span style="color:red">Probability Density Estimation and Statistics</span>
 
 #### Goals
 * Estimate probability density
@@ -232,13 +232,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
 * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
-<!--################### Lecture 06 ######################-->
+<!--################### Lecture 07 ######################-->
 
-### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Bayesian Statistics and Markov-chain Monte Carlo</span>
+### <span style="color:blue">[Oct 15]</span> **Lec 07**: <span style="color:red">Bayesian Statistics and Markov-chain Monte Carlo</span>
 
 #### Goals
 * Learn about Bayesian Statistics
-* Markov-chain Monte Carlo put in practice
+* Markov-chain Monte Carlo put into practice
 
 #### Lecture notebook(s)
 * [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Bayes.ipynb)
@@ -259,19 +259,18 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Foreman-Mackey, Hogg, Lang, Goodman, </i>emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
 
 <!--################### Lecture 07 ######################-->
-<!--
-### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Markov Chains and Stochastic processes and Variational Inference and Optimization</span>
 
-<!--
+### <span style="color:blue">[Oct 22]</span> Lec 08: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
+
+
 #### Goals
 * Learn about Stochastic processes
-* Learn about Markov-chain Theory* Learn about Variational Inference
-* Learn about Optimization and Stochastic Gradient Descent
+* Learn about Markov-chain Theory
+* Learn about Variational Inference
 
 #### Lecture notebook(s)
 * [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
 * [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
-* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
 
 #### Homework
 * None
@@ -279,17 +278,17 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 
 <!--################### Lecture 08 ######################-->
-<!--
-### <span style="color:blue">[Oct 22]</span> Lec 08: <span style="color:red">Comput. Graphs, Prob. Prog. & Bayesian Models</span>
 
-<!--
+### <span style="color:blue">[Oct 29]</span> Lec 09: <span style="color:red">Optimization & Comput. Graphs, Prob. Prog.</span>
+
 #### Goals
+* Learn about Optimization and Stochastic Gradient Descent
 * Learn about Frameworks for Computational Graphs
 * Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
 * [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
-* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
 
 #### Homework
 * None
@@ -297,15 +296,14 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 
 <!--################### Lecture 09 ######################-->
-<!--
-### <span style="color:blue">[Oct 29]</span> Lec 09: <span style="color:red">Probabilistic Learning & Supervised Learning </span>
 
-<!--
+### <span style="color:blue">[Nov 5]</span> Lec 10: <span style="color:red">Bayesian Models & Probabilistic Learning & Supervised Learning </span>
+
 #### Goals
 
 #### Lecture notebook(s)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
 * [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
-* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
 
 #### Homework
 * None
@@ -313,14 +311,15 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 
 <!--################### Lecture 10 ######################-->
-<!--
-### <span style="color:blue">[Nov 05]</span> Lec 10: <span style="color:red">Cross Validation</span>
 
-<!--
+### <span style="color:blue">[Nov 12]</span> Lec 11: <span style="color:red">Cross Validation</span>
+
+
 #### Goals
 * Learn about Cross Validation
 
 #### Lecture notebook(s)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
 * [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
 
 #### Homework
@@ -328,9 +327,14 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
+<!--################### NO Lecture ######################-->
+
+### <span style="color:blue">[Nov 19]</span> NO LECTURE (Fall Break)
+
+
 <!--################### Lecture 11 ######################-->
 <!--
-### <span style="color:blue">[Nov 12]</span> Lec 11: <span style="color:red">Artificial Neural Networks</span>
+### <span style="color:blue">[Nov 12]</span> Lec 12: <span style="color:red">Artificial Neural Networks</span>
 
 <!--
 #### Goals
@@ -344,10 +348,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
-<!--################### NO Lecture ######################-->
-
-<!--
-### <span style="color:blue">[Nov 19]</span> NO LECTURE (Fall Break)
 
 <!--################### Lecture 12 ######################-->
 <!--
