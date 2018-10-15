@@ -186,7 +186,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 05 ######################-->
 
-### <span style="color:blue">[Oct 1]</span> **Lec 05**: <span style="color:red">Kernel Functions and Probability Theory</span>
+### <span style="color:blue">[Oct 01]</span> **Lec 05**: <span style="color:red">Kernel Functions and Probability Theory</span>
 
 #### Goals
 * Learn about Kernel functions
