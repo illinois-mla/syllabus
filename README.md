@@ -186,7 +186,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 05 ######################-->
 
-### <span style="color:blue">[Oct 01]</span> **Lec 05**: <span style="color:red">Kernel Functions and Probability Theory</span>
+### <span style="color:blue">[Oct 01]</span> **Lec 05**: <span style="color:red">Kernel Functions & Probability Theory</span>
 
 #### Goals
 * Learn about Kernel functions
@@ -209,7 +209,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 06 ######################-->
 
-### <span style="color:blue">[Oct 08]</span> **Lec 06**: <span style="color:red">Probability Density Estimation and Statistics</span>
+### <span style="color:blue">[Oct 08]</span> **Lec 06**: <span style="color:red">Probability Density Estimation & Statistics</span>
 
 #### Goals
 * Estimate probability density
@@ -234,7 +234,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 07 ######################-->
 
-### <span style="color:blue">[Oct 15]</span> **Lec 07**: <span style="color:red">Bayesian Statistics and Markov-chain Monte Carlo</span>
+### <span style="color:blue">[Oct 15]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
 
 #### Goals
 * Learn about Bayesian Statistics
@@ -297,7 +297,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 10 ######################-->
 
-### <span style="color:blue">[Nov 5]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning & Supervised Learning </span>
+### <span style="color:blue">[Nov 5]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
 
 #### Goals
 
@@ -312,8 +312,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 11 ######################-->
 
-### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Cross Validation</span>
-
+### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
 
 #### Goals
 * Learn about Cross Validation
