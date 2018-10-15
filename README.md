@@ -262,7 +262,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Oct 22]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
 
-
+<!--
 #### Goals
 * Learn about Stochastic processes
 * Learn about Markov-chain Theory
