@@ -273,7 +273,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
 
 #### Homework
-* None
+* [Homework 6](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework6.ipynb): Bayesian Statistics and Markov Chain Monte Carlo
+  * Released on Monday, Oct 22
+  * Due by __3:00 pm CDT__ on __Monday, Oct 29__
 
 #### Supplemental reading
 
@@ -292,7 +294,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
 
 #### Homework
-* None
+* [Homework 7](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework7.ipynb): Markov Chains
+  * Released on Monday, Oct 29
+  * Due by __3:00 pm CDT__ on __Monday, Nov 05__
 
 #### Supplemental reading
 
