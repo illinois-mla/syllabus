@@ -245,7 +245,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/MCMC.ipynb)
 
 #### Homework
-* [Homework 5](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework5.ipynb): Probability
+* [Homework 5](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework5.ipynb): Kernel Density Estimation
   * Released on Monday, Oct 15
   * Due by __3:00 pm CDT__ on __Monday, Oct 22__
 
