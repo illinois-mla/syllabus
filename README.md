@@ -279,7 +279,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 09 ######################-->
 
-### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization & Comput. Graphs, Prob. Prog.</span>
+### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
 
 #### Goals
 * Learn about Optimization and Stochastic Gradient Descent
