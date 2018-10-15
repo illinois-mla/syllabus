@@ -117,7 +117,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### NO Lecture ######################-->
 
-### <span style="color:blue">[Sep 03]</span> NO LECTURE (Labor Day)
+### <span style="color:blue">[Sep 03]</span> **NO LECTURE** (Labor Day)
 
 <!--################### Lecture 02 ######################-->
 
@@ -258,9 +258,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
 * [Foreman-Mackey, Hogg, Lang, Goodman, </i>emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
 
-<!--################### Lecture 07 ######################-->
+<!--################### Lecture 08 ######################-->
 
-### <span style="color:blue">[Oct 22]</span> Lec 08: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
+### <span style="color:blue">[Oct 22]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
 
 
 #### Goals
@@ -277,9 +277,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
-<!--################### Lecture 08 ######################-->
+<!--################### Lecture 09 ######################-->
 
-### <span style="color:blue">[Oct 29]</span> Lec 09: <span style="color:red">Optimization & Comput. Graphs, Prob. Prog.</span>
+### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization & Comput. Graphs, Prob. Prog.</span>
 
 #### Goals
 * Learn about Optimization and Stochastic Gradient Descent
@@ -295,9 +295,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
-<!--################### Lecture 09 ######################-->
+<!--################### Lecture 10 ######################-->
 
-### <span style="color:blue">[Nov 5]</span> Lec 10: <span style="color:red">Bayesian Models & Probabilistic Learning & Supervised Learning </span>
+### <span style="color:blue">[Nov 5]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning & Supervised Learning </span>
 
 #### Goals
 
@@ -310,9 +310,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
-<!--################### Lecture 10 ######################-->
+<!--################### Lecture 11 ######################-->
 
-### <span style="color:blue">[Nov 12]</span> Lec 11: <span style="color:red">Cross Validation</span>
+### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Cross Validation</span>
 
 
 #### Goals
@@ -329,14 +329,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### NO Lecture ######################-->
 
-### <span style="color:blue">[Nov 19]</span> NO LECTURE (Fall Break)
+### <span style="color:blue">[Nov 19]</span> **NO LECTURE** (Fall Break)
 
 
-<!--################### Lecture 11 ######################-->
-<!--
-### <span style="color:blue">[Nov 12]</span> Lec 12: <span style="color:red">Artificial Neural Networks</span>
+<!--################### Lecture 12 ######################-->
 
-<!--
+### <span style="color:blue">[Nov 26]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
+
 #### Goals
 * Learning in a Neural Networks
 
@@ -349,11 +348,10 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Supplemental reading
 
 
-<!--################### Lecture 12 ######################-->
-<!--
-### <span style="color:blue">[Nov 26]</span> Lec 12: <span style="color:red">Deep Learning I</span>
+<!--################### Lecture 13 ######################-->
 
-<!--
+### <span style="color:blue">[Dec 03]</span> **Lec 13**: <span style="color:red">Deep Learning I</span>
+
 #### Goals
 * Learn about Deep Learning
 
@@ -365,38 +363,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
-<!--################### Lecture 13 ######################-->
-<!--
-### <span style="color:blue">[Dec 03]</span> Lec 13: <span style="color:red">Deep Learning II</span>
-
-<!--
-#### Goals
-
-#### Lecture notebook(s)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
 <!--################### Lecture 14 ######################-->
-<!--
-### <span style="color:blue">[Dec 10]</span> Lec 14: <span style="color:red">Deep Learning III</span>
 
-<!--
-#### Goals
-* Learn about Neural Networks
-
-#### Lecture notebook(s)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
-<!--################### Lecture 15 ######################-->
-<!--
-### <span style="color:blue">[Dec 10]</span> Lecture 15: <span style="color:red">Deep Learning</span>
+### <span style="color:blue">[Dec 10]</span> **Lec 14**: <span style="color:red">Deep Learning II</span>
 
 #### Goals
 
@@ -406,7 +375,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
--->
 
 ## _________________________________________
 
