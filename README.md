@@ -281,6 +281,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
 
+<!--
 #### Goals
 * Learn about Optimization and Stochastic Gradient Descent
 * Learn about Frameworks for Computational Graphs
@@ -299,6 +300,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 5]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
 
+<!--
 #### Goals
 
 #### Lecture notebook(s)
@@ -314,6 +316,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
 
+<!--
 #### Goals
 * Learn about Cross Validation
 
@@ -335,6 +338,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 26]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
 
+<!--
 #### Goals
 * Learning in a Neural Networks
 
@@ -351,6 +355,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Dec 03]</span> **Lec 13**: <span style="color:red">Deep Learning I</span>
 
+<!--
 #### Goals
 * Learn about Deep Learning
 
@@ -366,6 +371,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Dec 10]</span> **Lec 14**: <span style="color:red">Deep Learning II</span>
 
+<!--
 #### Goals
 
 #### Lecture notebook(s)
@@ -374,6 +380,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
+
+-->
 
 ## _________________________________________
 
