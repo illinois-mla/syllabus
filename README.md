@@ -43,7 +43,7 @@ This is a new course and unlike any that is being taught in our Department. As s
 * Some knowledge of python preferred but not required. You do need to have a working knowledge of the basics of computer programming.
 
 ### Setting up your environment
-* There is some setup required to ensure a consistent and functioning software environment on your computer to use the Jupyter notebooks in this course. This setup is detailed [here](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course.
+* There is some setup required to ensure a consistent and functioning software environment on your computer to use the Jupyter notebooks in this course. This setup is detailed [here](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course.
 
 ## <span style="color:Red">Course Overview</span>
 
@@ -70,7 +70,7 @@ Topics covered include:
 * *Neural networks*
 * *Deep learning*
 
-Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks, available at [syllabus/notebooks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks).
+Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks, available at [syllabus/notebooks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks).
 
 ## <span style="color:Red">Class Participation</span>
 
@@ -101,10 +101,10 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Setting up your environment
 
 #### *Lecture notebooks*
-* [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
-* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Intro.ipynb)
-* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Setup.ipynb)
-* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Homework.ipynb)
+* [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
+* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
+* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Setup.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
 
 #### *Homework*
 * Complete setting up your environment so that you can launch and execute notebooks
@@ -154,7 +154,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Lecture notebook(s)
 * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
-* [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Clustering.ipynb)
+* [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
 
 #### Homework
 * None
@@ -172,8 +172,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Adapt linear models to nonlinear problems
 
 #### Lecture notebook(s)
-* [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Dimensionality.ipynb)
-* [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Nonlinear.ipynb)
+* [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Dimensionality.ipynb)
+* [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
 * [Homework 2](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
@@ -233,39 +233,43 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
 <!--################### Lecture 06 ######################-->
-<!--
-### <span style="color:blue">[Oct 08]</span> Lec 06: <span style="color:red">Stochastic processes & Markov chains</span>
 
-<!--
+### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Bayesian Statistics and Markov-chain Monte Carlo</span>
+
 #### Goals
 * Learn about Bayesian Statistics
-* Learn about Stochastic processes
-* Learn about Markov-chain Theory
 * Markov-chain Monte Carlo put in practice
 
 #### Lecture notebook(s)
-* [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Bayes.ipynb)
-* [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/MCMC.ipynb)
-* [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Markov.ipynb)
+* [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Bayes.ipynb)
+* [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/MCMC.ipynb)
 
 #### Homework
-* None
+* [Homework 5](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework5.ipynb): Probability
+  * Released on Monday, Oct 15
+  * Due by __3:00 pm CDT__ on __Monday, Oct 22__
 
 #### Supplemental reading
+* [Beta Distribution](https://en.wikipedia.org/wiki/Beta_distribution)
+* [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
+* [Uninformative Priors](https://en.wikipedia.org/wiki/Prior_probability#Uninformative_priors)
+* [Conjugate Priors](https://en.wikipedia.org/wiki/Conjugate_prior)
 * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
 
 <!--################### Lecture 07 ######################-->
 <!--
-### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Variational Inference and Optimization</span>
+### <span style="color:blue">[Oct 15]</span> Lec 07: <span style="color:red">Markov Chains and Stochastic processes and Variational Inference and Optimization</span>
 
 <!--
 #### Goals
-* Learn about Variational Inference
+* Learn about Stochastic processes
+* Learn about Markov-chain Theory* Learn about Variational Inference
 * Learn about Optimization and Stochastic Gradient Descent
 
 #### Lecture notebook(s)
-* [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Variational.ipynb)
-* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Optimization.ipynb)
+* [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
+* [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
 
 #### Homework
 * None
@@ -282,8 +286,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
-* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Frameworks.ipynb)
-* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/ModelSelection.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
 
 #### Homework
 * None
@@ -298,8 +302,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Goals
 
 #### Lecture notebook(s)
-* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Learning.ipynb)
-* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Supervised.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
 
 #### Homework
 * None
@@ -315,7 +319,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Cross Validation
 
 #### Lecture notebook(s)
-* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/CrossValidation.ipynb)
+* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
 
 #### Homework
 * None
@@ -331,7 +335,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learning in a Neural Networks
 
 #### Lecture notebook(s)
-* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/NeuralNetworks.ipynb)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
 
 #### Homework
 * None
@@ -352,7 +356,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Deep Learning
 
 #### Lecture notebook(s)
-* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/DeepLearning.ipynb)"
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)"
 
 #### Homework
 * None
@@ -408,7 +412,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### References
 
-* You can find the references list, including required and recommended reading, at [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/References.ipynb)
+* You can find the references list, including required and recommended reading, at [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
 
 * Some quick reference guides
     * [Linux Bash Shell](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
@@ -456,4 +460,4 @@ Material for a [University of Illinois](http://illinois.edu) course offered by t
 
 Content is maintained on [github](https://github.com/illinois-mla) and distributed under a [BSD3 license](https://opensource.org/licenses/BSD-3-Clause).
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/illinois-mla/syllabus/tree/master/notebooks/Contents.ipynb)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Contents.ipynb)
