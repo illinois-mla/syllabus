@@ -262,11 +262,10 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Oct 22]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
 
-<!--
 #### Goals
-* Learn about Stochastic processes
+* Learn about Stochastic processes in the realm of Data Science
 * Learn about Markov-chain Theory
-* Learn about Variational Inference
+* Learn about the Variational Inference Method
 
 #### Lecture notebook(s)
 * [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
@@ -274,8 +273,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Homework
 * [Homework 6](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework6.ipynb): Bayesian Statistics and Markov Chain Monte Carlo
-  * Released on Monday, Oct 22
-  * Due by __3:00 pm CDT__ on __Monday, Oct 29__
+  * Released on Monday, Oct 29
+  * Due by __3:00 pm CDT__ on __Monday, Nov 5__
 
 #### Supplemental reading
 
