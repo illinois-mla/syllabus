@@ -291,7 +291,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
 
-<!--
 #### Goals
 * Learn about Optimization and Stochastic Gradient Descent
 * Learn about Frameworks for Computational Graphs
@@ -307,6 +306,19 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Due by __3:00 pm CDT__ on __Monday, Nov 05__
 
 #### Supplemental reading
+* [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
+* [Jensen's Inequality](https://en.wikipedia.org/wiki/Jensen's_inequality)
+* [Finite Difference Equations](https://en.wikipedia.org/wiki/Finite_difference)
+* [Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+* [Rosenbrock function](https://en.wikipedia.org/wiki/Rosenbrock_function)
+* [Nelder-Mead method](https://en.wikipedia.org/wiki/Nelder–Mead_method)
+* [Conjugate Gradient Method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
+* [Newton's CG method](https://en.wikipedia.org/wiki/Newton's_method_in_optimization)
+* [Powell's method](https://en.wikipedia.org/wiki/Powell's_method)
+* [BFGS method](https://en.wikipedia.org/wiki/Broyden-Fletcher-Goldfarb-Shanno_algorithm)
+* [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+* [Adam Optimizer](https://arxiv.org/abs/1412.6980)
+* [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
 
 <!--################### Lecture 10 ######################-->
 
