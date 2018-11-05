@@ -324,7 +324,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 5]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
 
-<!--
 #### Goals
 
 #### Lecture notebook(s)
@@ -335,6 +334,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
+* [Jeffreys proposed scale to interpret a Bayes Factor](https://en.wikipedia.org/wiki/Bayes_factor#Interpretation)
 
 <!--################### Lecture 11 ######################-->
 
