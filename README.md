@@ -351,6 +351,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
+* [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination)
 
 <!--################### NO Lecture ######################-->
 
@@ -360,15 +361,14 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 26]</span> **NO LECTURE**
 
-* [Homework 7](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Markov Chains
+* [Homework 8](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Cross Validation and Neural Networks
   * Released on Monday, Nov 26
-  * Due by __3:00 pm CDT__ on __Monday, Nov 05__
+  * Due by __3:00 pm CDT__ on __Monday, Dec 10__
 
 <!--################### Lecture 13 ######################-->
 
 ### <span style="color:blue">[Dec 03]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
 
-<!--
 #### Goals
 * Learning in a Neural Networks
 
@@ -384,7 +384,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Dec 10]</span> **Lec 13**: <span style="color:red">Deep Learning</span>
 
-<!--
 #### Goals
 * Learn about Deep Learning
 
