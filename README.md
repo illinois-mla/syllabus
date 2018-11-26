@@ -357,10 +357,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 19]</span> **NO LECTURE** (Fall Break)
 
-
 <!--################### Lecture 12 ######################-->
 
-### <span style="color:blue">[Nov 26]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
+### <span style="color:blue">[Nov 26]</span> **NO LECTURE**
+
+<!--################### Lecture 13 ######################-->
+
+### <span style="color:blue">[Dec 03]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
 
 <!--
 #### Goals
@@ -374,10 +377,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Supplemental reading
 
+<!--################### Lecture 14 ######################-->
 
-<!--################### Lecture 13 ######################-->
-
-### <span style="color:blue">[Dec 03]</span> **Lec 13**: <span style="color:red">Deep Learning I</span>
+### <span style="color:blue">[Dec 10]</span> **Lec 13**: <span style="color:red">Deep Learning</span>
 
 <!--
 #### Goals
@@ -388,24 +390,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Homework
 * None
-
-#### Supplemental reading
-
-<!--################### Lecture 14 ######################-->
-
-### <span style="color:blue">[Dec 10]</span> **Lec 14**: <span style="color:red">Deep Learning II</span>
-
-<!--
-#### Goals
-
-#### Lecture notebook(s)
-
-#### Homework
-* None
-
-#### Supplemental reading
-
--->
 
 ## _________________________________________
 
