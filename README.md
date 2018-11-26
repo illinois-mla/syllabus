@@ -340,7 +340,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
 
-<!--
 #### Goals
 * Learn about Cross Validation
 
@@ -360,6 +359,10 @@ Approximately halfway through the course, you will have the opportunity to choos
 <!--################### Lecture 12 ######################-->
 
 ### <span style="color:blue">[Nov 26]</span> **NO LECTURE**
+
+* [Homework 7](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Markov Chains
+  * Released on Monday, Nov 26
+  * Due by __3:00 pm CDT__ on __Monday, Nov 05__
 
 <!--################### Lecture 13 ######################-->
 
