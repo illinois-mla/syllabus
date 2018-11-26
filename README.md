@@ -388,7 +388,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Deep Learning
 
 #### Lecture notebook(s)
-* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)"
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
 
 #### Homework
 * None
