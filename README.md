@@ -379,6 +379,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 * None
 
 #### Supplemental reading
+* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
 
 <!--################### Lecture 14 ######################-->
 
