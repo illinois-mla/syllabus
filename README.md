@@ -88,7 +88,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 The final projects along with the instructions were posted at [Final Projects]{https://github.com/illinois-mla/FinalProjects). You are to choose one and submit to your private repo for grading on or before:
 
-* On or before __11:00 am CDT__ on __Thursday, December 20__
+* On or before __11:00 am CDT__ on __Friday, December 21__
 
 ## <span style="color:Red">Grading</span>
 
