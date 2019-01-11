@@ -12,7 +12,7 @@ permalink: /
 * **TA:** Dewen Zhong, [dzhong6@illinois.edu](mailto:dzhong6@illinois.edu)
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Spring2019)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours
