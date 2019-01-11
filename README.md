@@ -100,11 +100,11 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 <!--################### Lecture 01 ######################-->
 
-### <span style="color:blue">[Aug 27]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
+### <span style="color:blue">[Jan 14]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
 
 <!--################### NO Lecture ######################-->
 
-### <span style="color:blue">[Sep 03]</span> **NO LECTURE** (Labor Day)
+### <span style="color:blue">[Jan 21]</span> **NO LECTURE** (Martin Luther King Jr. Day)
 
 ## <span style="color:Red">Resources</span>
 
