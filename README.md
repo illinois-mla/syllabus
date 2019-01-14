@@ -102,6 +102,26 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 ### <span style="color:blue">[Jan 14]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
 
+#### *Goals*
+* Getting overview of the course, including reading list and homework assignments
+* Setting up your environment
+
+#### *Lecture notebooks*
+* [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
+* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
+* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Setup.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
+
+#### *Homework*
+* Complete setting up your environment so that you can launch and execute notebooks
+
+#### *Required reading*
+* *A Whirlwind Tour of Python*, Jake VanderPlas: [free PDF](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf), notebooks [online](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb).
+
+#### *Supplemental reading*
+* None
+
+
 <!--################### NO Lecture ######################-->
 
 ### <span style="color:blue">[Jan 21]</span> **NO LECTURE** (Martin Luther King Jr. Day)
