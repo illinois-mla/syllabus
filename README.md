@@ -141,6 +141,12 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * Released on Monday, Jan 28
   * Due by __3:00 pm CDT__ on __Monday, Feb 4__
 
+#### Supplemental reading
+  * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+  * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+  * [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
+
 
 ## <span style="color:Red">Resources</span>
 
