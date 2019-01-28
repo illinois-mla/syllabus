@@ -126,6 +126,22 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 ### <span style="color:blue">[Jan 21]</span> **NO LECTURE** (Martin Luther King Jr. Day)
 
+### <span style="color:blue">[Sep 10]</span> **Lec 02**: <span style="color:red">Data Science</span>
+
+#### Goals
+* Gain familiarity with Jupyter Notebooks and Numerical python
+* Learn about handling and describing data
+
+#### Lecture notebook(s)
+* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
+* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
+
+#### Homework
+* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
+  * Released on Monday, Jan 28
+  * Due by __3:00 pm CDT__ on __Monday, Feb 4__
+
+
 ## <span style="color:Red">Resources</span>
 
 ### References
