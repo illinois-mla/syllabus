@@ -126,6 +126,8 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 ### <span style="color:blue">[Jan 21]</span> **NO LECTURE** (Martin Luther King Jr. Day)
 
+<!--################### Lecture 03 ######################-->
+
 ### <span style="color:blue">[Sep 10]</span> **Lec 02**: <span style="color:red">Data Science</span>
 
 #### Goals
@@ -146,6 +148,29 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
   * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
   * [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
+
+<!--################### Lecture 03 ######################-->
+
+### <span style="color:blue">[Sep 17]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
+
+#### Goals
+  * Learn about visualizing data
+  * Learn about the importance of clustering data in physics
+  * Learn how to find structure in data (clustering)
+     * KMeans, Spectral Clustering, DBSCAN
+
+#### Lecture notebook(s)
+  * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
+  * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
+
+#### Homework
+  * None
+
+#### Supplemental reading
+  * [Scikit-learn](http://scikit-learn.org)
+  * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
+
+
 
 
 ## <span style="color:Red">Resources</span>
