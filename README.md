@@ -170,7 +170,26 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Scikit-learn](http://scikit-learn.org)
   * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
 
+  <!--################### Lecture 04 ######################-->
 
+### <span style="color:blue">[Sep 24]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
+
+#### Goals
+  * Measure and reduce dimensionality
+  * Adapt linear models to nonlinear problems
+
+#### Lecture notebook(s)
+  * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Dimensionality.ipynb)
+  * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
+
+#### Homework
+  * [Homework 2](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
+    * Released on Monday, Feb 11
+    * Due by __3:00 pm CDT__ on __Monday, Feb 18__
+
+#### Supplemental reading
+  * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+  * [Blind Signal Separation](https://en.wikipedia.org/wiki/Blind_signal_separation)
 
 
 ## <span style="color:Red">Resources</span>
