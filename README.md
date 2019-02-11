@@ -151,7 +151,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 17]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
+### <span style="color:blue">[Feb 4]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
 
 #### Goals
   * Learn about visualizing data
@@ -170,9 +170,9 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Scikit-learn](http://scikit-learn.org)
   * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
 
-  <!--################### Lecture 04 ######################-->
+<!--################### Lecture 04 ######################-->
 
-### <span style="color:blue">[Sep 24]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
+### <span style="color:blue">[Feb 11]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
   * Measure and reduce dimensionality
