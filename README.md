@@ -128,7 +128,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Sep 10]</span> **Lec 02**: <span style="color:red">Data Science</span>
+### <span style="color:blue">[Jan 28]</span> **Lec 02**: <span style="color:red">Data Science</span>
 
 #### Goals
 * Gain familiarity with Jupyter Notebooks and Numerical python
