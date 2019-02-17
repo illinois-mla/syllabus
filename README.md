@@ -205,8 +205,8 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 #### Homework
   * [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
-    * Released on Monday, Oct 1
-    * Due by __3:00 pm CDT__ on __Monday, Oct 8__
+    * Released on Monday, Feb 18
+    * Due by __3:00 pm CDT__ on __Monday, Feb 25__
 
 #### Supplemental reading
   * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
