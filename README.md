@@ -209,10 +209,10 @@ The final projects along with the instructions were posted at [Final Projects]{h
     * Due by __3:00 pm CDT__ on __Monday, Oct 8__
 
 #### Supplemental reading
-    * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
-    * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
-    * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
-    * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
+  * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
+  * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
+  * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
+  * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
 
 
 ## <span style="color:Red">Resources</span>
