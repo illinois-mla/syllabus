@@ -214,6 +214,31 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
   * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
 
+  <!--################### Lecture 06 ######################-->
+
+### <span style="color:blue">[Feb 25]</span> **Lec 06**: <span style="color:red">Probability Density Estimation & Statistics</span>
+
+#### Goals
+  * Estimate probability density
+  * Learn about Statistical Methods
+
+#### Lecture notebook(s)
+  * [Estimate probability density from Data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Density.ipynb)
+  * [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Statistics.ipynb)
+
+#### Homework
+  * [Homework 4](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework4.ipynb): Probability
+    * Released on Monday, Feb 25
+    * Due by __3:00 pm CDT__ on __Monday, Mar 4__
+
+#### Supplemental reading
+  * [Positive Definite Matrix definition](https://en.wikipedia.org/wiki/Positive-definite_matrix)
+  * [AstroML: Machine Learning and Data Mining for Astronomy](http://www.astroml.org)
+  * [Freedman-Diaconis Rule for choice of binning](https://en.wikipedia.org/wiki/Freedman–Diaconis_rule)
+  * [Kernel Density Estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
+  * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
+  * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
+
 
 ## <span style="color:Red">Resources</span>
 
