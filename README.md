@@ -239,6 +239,30 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
   * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
+### <span style="color:blue">[Mar 4]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
+
+#### Goals
+  * Learn about Bayesian Statistics
+  * Markov-chain Monte Carlo put into practice
+
+#### Lecture notebook(s)
+  * [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Bayes.ipynb)
+  * [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/MCMC.ipynb)
+
+#### Homework
+  * [Homework 5](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework5.ipynb): Kernel Density Estimation
+    * Released on Monday, Mar 4
+    * Due by __3:00 pm CDT__ on __Monday, Mar 11__
+
+#### Supplemental reading
+  * [Beta Distribution](https://en.wikipedia.org/wiki/Beta_distribution)
+  * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
+  * [Uninformative Priors](https://en.wikipedia.org/wiki/Prior_probability#Uninformative_priors)
+  * [Conjugate Priors](https://en.wikipedia.org/wiki/Conjugate_prior)
+  * [Importance Sampling](https://en.wikipedia.org/wiki/Importance_sampling#Application_to_probabilistic_inference)
+  * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
+  * [Foreman-Mackey, Hogg, Lang, Goodman, emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
+
 
 ## <span style="color:Red">Resources</span>
 
