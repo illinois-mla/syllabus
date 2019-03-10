@@ -263,6 +263,34 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
   * [Foreman-Mackey, Hogg, Lang, Goodman, emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
 
+<!--################### Lecture 08 ######################-->
+
+### <span style="color:blue">[Mar 11]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
+
+#### Goals
+* Learn about Stochastic processes in the realm of Data Science
+* Learn about Markov-chain Theory
+* Learn about the Variational Inference Method
+
+#### Lecture notebook(s)
+* [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
+* [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
+
+#### Homework
+* [Homework 6](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework6.ipynb): Bayesian Statistics and Markov Chain Monte Carlo
+  * Released on Monday, Mar 11
+  * Due by __3:00 pm CDT__ on __Monday, Mar 25__
+
+#### Supplemental reading
+* [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
+* [Example of dependence without correlation](https://en.wikipedia.org/wiki/Uncorrelated_random_variables#Example_of_dependence_without_correlation)
+* [Conditional Independence](https://en.wikipedia.org/wiki/Conditional_independence)
+* [Inverse Problem](https://en.wikipedia.org/wiki/Inverse_problem)
+* [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)
+* [Hamiltonian Mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics)
+* [Cannonical Distribution](https://en.wikipedia.org/wiki/Canonical_ensemble)
+* [Hamiltonian MC](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
+* [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation)
 
 ## <span style="color:Red">Resources</span>
 
