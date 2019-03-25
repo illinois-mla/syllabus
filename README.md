@@ -214,7 +214,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
   * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
   * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
 
-  <!--################### Lecture 06 ######################-->
+<!--################### Lecture 06 ######################-->
 
 ### <span style="color:blue">[Feb 25]</span> **Lec 06**: <span style="color:red">Probability Density Estimation & Statistics</span>
 
@@ -291,6 +291,40 @@ The final projects along with the instructions were posted at [Final Projects]{h
 * [Cannonical Distribution](https://en.wikipedia.org/wiki/Canonical_ensemble)
 * [Hamiltonian MC](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 * [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation)
+
+<!--################### Lecture 09 ######################-->
+
+### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
+
+#### Goals
+* Learn about Optimization and Stochastic Gradient Descent
+* Learn about Frameworks for Computational Graphs
+* Learn about Probabilistic Programming methods
+
+#### Lecture notebook(s)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
+
+#### Homework
+* [Homework 7](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework7.ipynb): Markov Chains
+  * Released on Monday, Mar 25
+  * Due by __3:00 pm CDT__ on __Monday, Apr 01__
+
+#### Supplemental reading
+* [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
+* [Jensen's Inequality](https://en.wikipedia.org/wiki/Jensen's_inequality)
+* [Finite Difference Equations](https://en.wikipedia.org/wiki/Finite_difference)
+* [Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+* [Rosenbrock function](https://en.wikipedia.org/wiki/Rosenbrock_function)
+* [Nelder-Mead method](https://en.wikipedia.org/wiki/Nelder–Mead_method)
+* [Conjugate Gradient Method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
+* [Newton's CG method](https://en.wikipedia.org/wiki/Newton's_method_in_optimization)
+* [Powell's method](https://en.wikipedia.org/wiki/Powell's_method)
+* [BFGS method](https://en.wikipedia.org/wiki/Broyden-Fletcher-Goldfarb-Shanno_algorithm)
+* [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+* [Adam Optimizer](https://arxiv.org/abs/1412.6980)
+* [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
+
 
 ## <span style="color:Red">Resources</span>
 
