@@ -294,7 +294,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 <!--################### Lecture 09 ######################-->
 
-### <span style="color:blue">[Oct 29]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
+### <span style="color:blue">[Mar 25]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
 
 #### Goals
 * Learn about Optimization and Stochastic Gradient Descent
