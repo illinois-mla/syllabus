@@ -246,7 +246,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (> 104)
   html-proofer (~> 2.6)
   rake (~> 10.4)
 
