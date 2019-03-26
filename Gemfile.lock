@@ -248,7 +248,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer (~> 2.6)
-  nokogiri (>= 1.8.5)
   rake (~> 10.4)
 
 BUNDLED WITH
