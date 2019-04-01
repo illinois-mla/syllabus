@@ -325,6 +325,19 @@ The final projects along with the instructions were posted at [Final Projects]{h
 * [Adam Optimizer](https://arxiv.org/abs/1412.6980)
 * [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
 
+### <span style="color:blue">[Apr 1]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
+
+#### Goals
+
+#### Lecture notebook(s)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
+
+#### Homework
+* None
+
+#### Supplemental reading
+* [Jeffreys proposed scale to interpret a Bayes Factor](https://en.wikipedia.org/wiki/Bayes_factor#Interpretation)
 
 ## <span style="color:Red">Resources</span>
 
