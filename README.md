@@ -325,6 +325,8 @@ The final projects along with the instructions were posted at [Final Projects]{h
 * [Adam Optimizer](https://arxiv.org/abs/1412.6980)
 * [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
 
+<!--################### Lecture 10 ######################-->
+
 ### <span style="color:blue">[Apr 1]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
 
 #### Goals
