@@ -341,6 +341,24 @@ The final projects along with the instructions were posted at [Final Projects]{h
 #### Supplemental reading
 * [Jeffreys proposed scale to interpret a Bayes Factor](https://en.wikipedia.org/wiki/Bayes_factor#Interpretation)
 
+<!--################### Lecture 11 ######################-->
+
+### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
+
+#### Goals
+* Learn about Cross Validation
+
+#### Lecture notebook(s)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
+* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
+
+#### Homework
+* None
+
+#### Supplemental reading
+* [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+
+
 ## <span style="color:Red">Resources</span>
 
 ### References
