@@ -343,7 +343,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
 
 <!--################### Lecture 11 ######################-->
 
-### <span style="color:blue">[Nov 12]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
+### <span style="color:blue">[Apr 8]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
 
 #### Goals
 * Learn about Cross Validation
