@@ -358,6 +358,26 @@ The final projects along with the instructions were posted at [Final Projects]{h
 #### Supplemental reading
 * [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination)
 
+<!--################### Lecture 12 ######################-->
+
+### <span style="color:blue">[Apr 15]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
+
+#### Goals
+* Learning in a Neural Networks
+
+#### Lecture notebook(s)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
+
+#### Homework
+* [Homework 8](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Cross Validation and Neural Networks
+  * Released on Monday, Apr 15
+  * Due by __3:00 pm CDT__ on __Monday, Apr 29__
+
+#### Supplemental reading
+* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
+
 
 ## <span style="color:Red">Resources</span>
 
