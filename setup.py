@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='mls',
-    version='0.1',
+    version='0.2',
     description='Material for UIiUC course "Data Analysis and Machine Learning Applications"',
     url='http://github.com/illinois-mla',
     author='David Kirkby, with modifications from Mark Neubauer',
