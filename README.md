@@ -240,7 +240,7 @@ The final projects along with the instructions have been posted at [Final Projec
   * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
   * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
-### <span style="color:blue">[Mar 4]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
+### <span style="color:blue">[Mar 04]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
 
 #### Goals
   * Learn about Bayesian Statistics
@@ -328,7 +328,7 @@ The final projects along with the instructions have been posted at [Final Projec
 
 <!--################### Lecture 10 ######################-->
 
-### <span style="color:blue">[Apr 1]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
+### <span style="color:blue">[Apr 01]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
 
 #### Goals
 
@@ -344,7 +344,7 @@ The final projects along with the instructions have been posted at [Final Projec
 
 <!--################### Lecture 11 ######################-->
 
-### <span style="color:blue">[Apr 8]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
+### <span style="color:blue">[Apr 08]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
 
 #### Goals
 * Learn about Cross Validation
