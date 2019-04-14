@@ -152,7 +152,7 @@ The final projects along with the instructions have been posted at [Final Projec
 
 <!--################### Lecture 03 ######################-->
 
-### <span style="color:blue">[Feb 4]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
+### <span style="color:blue">[Feb 04]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
 
 #### Goals
   * Learn about visualizing data
