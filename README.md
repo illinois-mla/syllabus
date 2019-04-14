@@ -363,7 +363,7 @@ The final projects along with the instructions were posted at [Final Projects]{h
 ### <span style="color:blue">[Apr 15]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
 
 #### Goals
-* Learning in a Neural Networks
+* Learning and Inference using Neural Networks
 
 #### Lecture notebook(s)
 * [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
@@ -378,6 +378,38 @@ The final projects along with the instructions were posted at [Final Projects]{h
 * [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
 
+<!--################### Lecture 13 ######################-->
+
+### <span style="color:blue">[Apr 22]</span> **Lec 13**: <span style="color:red">Artificial Neural Networks</span>
+
+#### Goals
+* Learning and Inference using Neural Networks
+
+#### Lecture notebook(s)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
+
+#### Homework
+* [Homework 8](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Cross Validation and Neural Networks
+  * Released on Monday, Apr 15
+  * Due by __3:00 pm CDT__ on __Monday, Apr 29__
+
+#### Supplemental reading
+* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
+
+<!--################### Lecture 14 ######################-->
+
+### <span style="color:blue">[Apr 29]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
+
+#### Goals
+* Learn about Deep Learning
+
+#### Lecture notebook(s)
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
+
+#### Homework
+* None
 
 ## <span style="color:Red">Resources</span>
 
