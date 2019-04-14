@@ -82,13 +82,14 @@ Homework is an important part of the course where you will have an opportunity t
 
 ## <span style="color:Red">Projects</span>
 
-Approximately halfway through the course, you will have the opportunity to choose from a set of projects that use open scientific data. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
 
 <!--
-The final projects along with the instructions were posted at [Final Projects]{https://github.com/illinois-mla/FinalProjects). You are to choose one and submit to your private repo for grading on or before:
-
-* On or before __11:00 am CDT__ on __Friday, December 21__
+Approximately halfway through the course, you will have the opportunity to choose from a set of projects that use open scientific data. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
 -->
+
+The final projects along with the instructions have been posted at [Final Projects]{https://github.com/illinois-mla/FinalProjects). You are to choose one and submit to your private repo for grading on or before:
+
+* On or before __5:00 pm CDT__ on __Friday, May 10__
 
 ## <span style="color:Red">Grading</span>
 
