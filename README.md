@@ -378,6 +378,7 @@ The final projects along with the instructions have been posted at [Final Projec
 * [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
+* [Training Summary](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
 <!--################### Lecture 13 ######################-->
 
