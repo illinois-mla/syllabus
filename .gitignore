@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .nbgrader.log
+.ipynb_checkpoints
+
+# Ignore all homeworks
+notebooks/homework/Homework*.ipynb
