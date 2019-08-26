@@ -11,13 +11,14 @@ permalink: /
 * **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
 * **TA:** Dewen Zhong, [dzhong6@illinois.edu](mailto:dzhong6@illinois.edu)
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
+  * NOTE: **Due to a room conflict, the first lecture will be in 322 Loomis**
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Spring2019)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours
-        * Dewen Zhong: Thursdays from 2-3 pm in 420 Loomis
-        * Prof. Neubauer: Thursdays from 3-4 pm in 411 Loomis
+        * Dewen Zhong: TBD from TBD in 420 Loomis
+        * Prof. Neubauer: TBD from TBD in 411 Loomis
    * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
 
 ## <span style="color:Red">Course Description</span>
@@ -93,15 +94,15 @@ The final projects along with the instructions have been posted at [Final Projec
 
 ## <span style="color:Red">Grading</span>
 
-* *Class Participation*: **~30%**
-* *Homework*: **~50%**
-* *Research project*: **~20%**
+* *Class Participation*: **~20%**
+* *Homework*: **~45%**
+* *Research project*: **~35%**
 
 ## <span style="color:Red">Course Outline</span>
 
 <!--################### Lecture 01 ######################-->
 
-### <span style="color:blue">[Jan 14]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
+### <span style="color:blue">[Aug 26]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
 
 #### *Goals*
 * Getting overview of the course, including reading list and homework assignments
@@ -125,293 +126,14 @@ The final projects along with the instructions have been posted at [Final Projec
 
 <!--################### NO Lecture ######################-->
 
-### <span style="color:blue">[Jan 21]</span> **NO LECTURE** (Martin Luther King Jr. Day)
+### <span style="color:blue">[Sep 02]</span> **NO LECTURE** (Labor Day)
 
-<!--################### Lecture 03 ######################-->
+<!--################### Lecture 02 ######################-->
 
 ### <span style="color:blue">[Jan 28]</span> **Lec 02**: <span style="color:red">Data Science</span>
 
-#### Goals
-* Gain familiarity with Jupyter Notebooks and Numerical python
-* Learn about handling and describing data
 
-#### Lecture notebook(s)
-* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
-* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
 
-#### Homework
-* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
-  * Released on Monday, Jan 28
-  * Due by __3:00 pm CDT__ on __Monday, Feb 4__
-
-#### Supplemental reading
-  * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
-  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-  * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
-  * [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
-
-<!--################### Lecture 03 ######################-->
-
-### <span style="color:blue">[Feb 04]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
-
-#### Goals
-  * Learn about visualizing data
-  * Learn about the importance of clustering data in physics
-  * Learn how to find structure in data (clustering)
-     * KMeans, Spectral Clustering, DBSCAN
-
-#### Lecture notebook(s)
-  * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
-  * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
-
-#### Homework
-  * None
-
-#### Supplemental reading
-  * [Scikit-learn](http://scikit-learn.org)
-  * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
-
-<!--################### Lecture 04 ######################-->
-
-### <span style="color:blue">[Feb 11]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
-
-#### Goals
-  * Measure and reduce dimensionality
-  * Adapt linear models to nonlinear problems
-
-#### Lecture notebook(s)
-  * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Dimensionality.ipynb)
-  * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
-
-#### Homework
-  * [Homework 2](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework2.ipynb): Visualization, Covariance and Correlation
-    * Released on Monday, Feb 11
-    * Due by __3:00 pm CDT__ on __Monday, Feb 18__
-
-#### Supplemental reading
-  * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
-  * [Blind Signal Separation](https://en.wikipedia.org/wiki/Blind_signal_separation)
-
-  <!--################### Lecture 05 ######################-->
-
-### <span style="color:blue">[Oct 01]</span> **Lec 05**: <span style="color:red">Kernel Functions & Probability Theory</span>
-
-#### Goals
-  * Learn about Kernel functions
-  * Learn about Probability Theory
-
-#### Lecture notebook(s)
-  * [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
-  * [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Probability.ipynb)
-
-#### Homework
-  * [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
-    * Released on Monday, Feb 18
-    * Due by __3:00 pm CDT__ on __Monday, Feb 25__
-
-#### Supplemental reading
-  * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
-  * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
-  * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
-  * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
-
-<!--################### Lecture 06 ######################-->
-
-### <span style="color:blue">[Feb 25]</span> **Lec 06**: <span style="color:red">Probability Density Estimation & Statistics</span>
-
-#### Goals
-  * Estimate probability density
-  * Learn about Statistical Methods
-
-#### Lecture notebook(s)
-  * [Estimate probability density from Data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Density.ipynb)
-  * [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Statistics.ipynb)
-
-#### Homework
-  * [Homework 4](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework4.ipynb): Probability
-    * Released on Monday, Feb 25
-    * Due by __3:00 pm CDT__ on __Monday, Mar 4__
-
-#### Supplemental reading
-  * [Positive Definite Matrix definition](https://en.wikipedia.org/wiki/Positive-definite_matrix)
-  * [AstroML: Machine Learning and Data Mining for Astronomy](http://www.astroml.org)
-  * [Freedman-Diaconis Rule for choice of binning](https://en.wikipedia.org/wiki/Freedman–Diaconis_rule)
-  * [Kernel Density Estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
-  * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
-  * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
-
-### <span style="color:blue">[Mar 04]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
-
-#### Goals
-  * Learn about Bayesian Statistics
-  * Markov-chain Monte Carlo put into practice
-
-#### Lecture notebook(s)
-  * [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Bayes.ipynb)
-  * [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/MCMC.ipynb)
-
-#### Homework
-  * [Homework 5](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework5.ipynb): Kernel Density Estimation
-    * Released on Monday, Mar 4
-    * Due by __3:00 pm CDT__ on __Monday, Mar 11__
-
-#### Supplemental reading
-  * [Beta Distribution](https://en.wikipedia.org/wiki/Beta_distribution)
-  * [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
-  * [Uninformative Priors](https://en.wikipedia.org/wiki/Prior_probability#Uninformative_priors)
-  * [Conjugate Priors](https://en.wikipedia.org/wiki/Conjugate_prior)
-  * [Importance Sampling](https://en.wikipedia.org/wiki/Importance_sampling#Application_to_probabilistic_inference)
-  * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
-  * [Foreman-Mackey, Hogg, Lang, Goodman, emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
-
-<!--################### Lecture 08 ######################-->
-
-### <span style="color:blue">[Mar 11]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
-
-#### Goals
-* Learn about Stochastic processes in the realm of Data Science
-* Learn about Markov-chain Theory
-* Learn about the Variational Inference Method
-
-#### Lecture notebook(s)
-* [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
-* [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
-
-#### Homework
-* [Homework 6](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework6.ipynb): Bayesian Statistics and Markov Chain Monte Carlo
-  * Released on Monday, Mar 11
-  * Due by __3:00 pm CDT__ on __Monday, Mar 25__
-
-#### Supplemental reading
-* [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
-* [Example of dependence without correlation](https://en.wikipedia.org/wiki/Uncorrelated_random_variables#Example_of_dependence_without_correlation)
-* [Conditional Independence](https://en.wikipedia.org/wiki/Conditional_independence)
-* [Inverse Problem](https://en.wikipedia.org/wiki/Inverse_problem)
-* [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)
-* [Hamiltonian Mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics)
-* [Cannonical Distribution](https://en.wikipedia.org/wiki/Canonical_ensemble)
-* [Hamiltonian MC](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
-* [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation)
-
-<!--################### Lecture 09 ######################-->
-
-### <span style="color:blue">[Mar 25]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
-
-#### Goals
-* Learn about Optimization and Stochastic Gradient Descent
-* Learn about Frameworks for Computational Graphs
-* Learn about Probabilistic Programming methods
-
-#### Lecture notebook(s)
-* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
-* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
-
-#### Homework
-* [Homework 7](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework7.ipynb): Markov Chains
-  * Released on Monday, Mar 25
-  * Due by __3:00 pm CDT__ on __Monday, Apr 01__
-
-#### Supplemental reading
-* [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
-* [Jensen's Inequality](https://en.wikipedia.org/wiki/Jensen's_inequality)
-* [Finite Difference Equations](https://en.wikipedia.org/wiki/Finite_difference)
-* [Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
-* [Rosenbrock function](https://en.wikipedia.org/wiki/Rosenbrock_function)
-* [Nelder-Mead method](https://en.wikipedia.org/wiki/Nelder–Mead_method)
-* [Conjugate Gradient Method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
-* [Newton's CG method](https://en.wikipedia.org/wiki/Newton's_method_in_optimization)
-* [Powell's method](https://en.wikipedia.org/wiki/Powell's_method)
-* [BFGS method](https://en.wikipedia.org/wiki/Broyden-Fletcher-Goldfarb-Shanno_algorithm)
-* [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
-* [Adam Optimizer](https://arxiv.org/abs/1412.6980)
-* [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
-
-<!--################### Lecture 10 ######################-->
-
-### <span style="color:blue">[Apr 01]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
-
-#### Goals
-
-#### Lecture notebook(s)
-* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
-* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-* [Jeffreys proposed scale to interpret a Bayes Factor](https://en.wikipedia.org/wiki/Bayes_factor#Interpretation)
-
-<!--################### Lecture 11 ######################-->
-
-### <span style="color:blue">[Apr 08]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
-
-#### Goals
-* Learn about Cross Validation
-
-#### Lecture notebook(s)
-* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
-* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
-
-#### Homework
-* None
-
-#### Supplemental reading
-* [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination)
-
-<!--################### Lecture 12 ######################-->
-
-### <span style="color:blue">[Apr 15]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
-
-#### Goals
-* Learning and Inference using Neural Networks
-
-#### Lecture notebook(s)
-* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
-
-#### Homework
-* [Homework 8](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Cross Validation and Neural Networks
-  * Released on Monday, Apr 15
-  * Due by __3:00 pm CDT__ on __Monday, Apr 29__
-
-#### Supplemental reading
-* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
-* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
-* [Training Summary](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
-
-<!--################### Lecture 13 ######################-->
-
-### <span style="color:blue">[Apr 22]</span> **Lec 13**: <span style="color:red">Artificial Neural Networks</span>
-
-#### Goals
-* Learning and Inference using Neural Networks
-
-#### Lecture notebook(s)
-* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
-
-#### Homework
-* [Homework 8](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework8.ipynb): Cross Validation and Neural Networks
-  * Released on Monday, Apr 15
-  * Due by __3:00 pm CDT__ on __Monday, Apr 29__
-
-#### Supplemental reading
-* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
-* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
-
-<!--################### Lecture 14 ######################-->
-
-### <span style="color:blue">[Apr 29]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
-
-#### Goals
-* Learn about Deep Learning
-
-#### Lecture notebook(s)
-* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
-
-#### Homework
-* None
 
 ## <span style="color:Red">Resources</span>
 
