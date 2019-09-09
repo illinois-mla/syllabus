@@ -13,12 +13,12 @@ permalink: /
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
   * NOTE: **Due to a room conflict, the first lecture will be in 322 Loomis**
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Spring2019)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Fall2019)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours
-        * Dewen Zhong: TBD from TBD in 420 Loomis
-        * Prof. Neubauer: TBD from TBD in 411 Loomis
+      * Dewen Zhong: Thursdays from 2-3 pm in 420 Loomis
+      * Prof. Neubauer: Thursdays from 3-4 pm in 411 Loomis
    * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
 
 ## <span style="color:Red">Course Description</span>
@@ -130,6 +130,28 @@ The final projects along with the instructions have been posted at [Final Projec
 
 ### <span style="color:blue">[Sep 02]</span> **NO LECTURE** (Labor Day)
 
+<!--################### Lecture 02 ######################-->
+
+### <span style="color:blue">[Sep 09]</span> **Lec 02**: <span style="color:red">Data Science</span>
+
+#### Goals
+* Gain familiarity with Jupyter Notebooks and Numerical python
+* Learn about handling and describing data
+
+#### Lecture notebook(s)
+* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
+* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
+
+#### Homework
+* [Homework 1](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework1.ipynb): Numerical python and data handling
+  * Released on Monday, Sept 9
+  * Due by __3:00 pm CDT__ on __Monday, Sep 16__
+
+#### Supplemental reading
+  * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+  * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+  * [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
 
 ## <span style="color:Red">Resources</span>
 
