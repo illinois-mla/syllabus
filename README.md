@@ -153,27 +153,26 @@ The final projects along with the instructions have been posted at [Final Projec
   * [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
   * [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
 
-  <!--################### Lecture 03 ######################-->
+<!--################### Lecture 03 ######################-->
 
-  ### <span style="color:blue">[Sep 16]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
+### <span style="color:blue">[Sep 16]</span> **Lec 03**: <span style="color:red">Visualizing & Finding Structure in Data</span>
 
-  #### Goals
-    * Learn about visualizing data
-    * Learn about the importance of clustering data in physics
-    * Learn how to find structure in data (clustering)
-       * KMeans, Spectral Clustering, DBSCAN
+#### Goals
+  * Learn about visualizing data
+  * Learn about the importance of clustering data in physics
+  * Learn how to find structure in data (clustering)
+     * KMeans, Spectral Clustering, DBSCAN
 
-  #### Lecture notebook(s)
-    * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
-    * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
+#### Lecture notebook(s)
+  * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
+  * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
 
-  #### Homework
-    * None
+#### Homework
+  * None
 
-  #### Supplemental reading
-    * [Scikit-learn](http://scikit-learn.org)
-    * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
-
+#### Supplemental reading
+  * [Scikit-learn](http://scikit-learn.org)
+  * [Whitening transformation](https://en.wikipedia.org/wiki/Whitening_transformation)
 
 ## <span style="color:Red">Resources</span>
 
