@@ -176,7 +176,7 @@ The final projects along with the instructions have been posted at [Final Projec
 
 <!--################### Lecture 04 ######################-->
 
-### <span style="color:blue">[Feb 11]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
+### <span style="color:blue">[Sep 23]</span> **Lec 04**: <span style="color:red">Dimensionality & Linearity</span>
 
 #### Goals
   * Measure and reduce dimensionality
