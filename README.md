@@ -208,7 +208,7 @@ The final projects along with the instructions have been posted at [Final Projec
 * [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Probability.ipynb)
 
 #### Homework
-* [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
+* [Homework 3](https://github.com/illinois-mla/Fall2019_Homework):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
   * Released on Monday, Sep 30
   * Due by __3:00 pm CDT__ on __Monday, Oct 6__
 
