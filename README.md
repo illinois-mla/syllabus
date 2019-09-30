@@ -188,12 +188,36 @@ The final projects along with the instructions have been posted at [Final Projec
 
 #### Homework
   * [Homework 2](https://github.com/illinois-mla/Fall2019_Homework): Visualization, Covariance and Correlation
-    * Released on Monday, Feb 11
+    * Released on Monday, Sep 23
     * Due by __3:00 pm CDT__ on __Monday, Sep 30__
 
 #### Supplemental reading
   * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
   * [Blind Signal Separation](https://en.wikipedia.org/wiki/Blind_signal_separation)
+
+<!--################### Lecture 05 ######################-->
+
+### <span style="color:blue">[Sep 30]</span> **Lec 05**: <span style="color:red">Kernel Functions & Probability Theory</span>
+
+#### Goals
+* Learn about Kernel functions
+* Learn about Probability Theory
+
+#### Lecture notebook(s)
+* [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
+* [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Probability.ipynb)
+
+#### Homework
+* [Homework 3](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/homework/Homework3.ipynb):  Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
+  * Released on Monday, Sep 30
+  * Due by __3:00 pm CDT__ on __Monday, Oct 6__
+
+#### Supplemental reading
+  * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
+  * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
+  * [Similarity Measure](https://en.wikipedia.org/wiki/Similarity_measure)
+  * [Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://science.sciencemag.org/content/290/5500/2323)
+
 
 ## <span style="color:Red">Resources</span>
 
