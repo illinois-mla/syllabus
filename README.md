@@ -230,12 +230,12 @@ The final projects along with the instructions have been posted at [Final Projec
   * [Estimate probability density from Data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Density.ipynb)
   * [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Statistics.ipynb)
 
-  #### Homework
+#### Homework
   * [Homework 4](https://github.com/illinois-mla/Fall2019_Homework): Probability
     * Released on Monday, Oct 07
     * Due by __3:00 pm CDT__ on __Monday, Oct 14__
 
-  #### Supplemental reading
+#### Supplemental reading
   * [Positive Definite Matrix definition](https://en.wikipedia.org/wiki/Positive-definite_matrix)
   * [AstroML: Machine Learning and Data Mining for Astronomy](http://www.astroml.org)
   * [Freedman-Diaconis Rule for choice of binning](https://en.wikipedia.org/wiki/Freedman–Diaconis_rule)
