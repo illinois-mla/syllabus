@@ -243,6 +243,8 @@ The final projects along with the instructions have been posted at [Final Projec
   * [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
   * [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
+<!--################### Lecture 07 ######################-->
+
 ### <span style="color:blue">[Oct 15]</span> **Lec 07**: <span style="color:red">Bayesian Statistics & Markov-chain Monte Carlo</span>
 
 #### Goals
@@ -267,6 +269,34 @@ The final projects along with the instructions have been posted at [Final Projec
   * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
   * [Foreman-Mackey, Hogg, Lang, Goodman, emcee: The MCMC Hammer](https://arxiv.org/abs/1202.3665)
 
+<!--################### Lecture 08 ######################-->
+
+### <span style="color:blue">[Oct 21]</span> **Lec 08**: <span style="color:red">Stochastic Processes, Markov Chains & Variational Inference</span>
+
+#### Goals
+  * Learn about Stochastic processes in the realm of Data Science
+  * Learn about Markov-chain Theory
+  * Learn about the Variational Inference Method
+
+#### Lecture notebook(s)
+  * [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
+  * [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
+
+#### Homework
+  * [Homework 6](https://github.com/illinois-mla/Fall2019_Homework): Bayesian Statistics and Markov Chain Monte Carlo
+    * Released on Monday, Oct 21
+    * Due by __3:00 pm CDT__ on __Monday, Oct 28__
+
+#### Supplemental reading
+  * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
+  * [Example of dependence without correlation](https://en.wikipedia.org/wiki/Uncorrelated_random_variables#Example_of_dependence_without_correlation)
+  * [Conditional Independence](https://en.wikipedia.org/wiki/Conditional_independence)
+  * [Inverse Problem](https://en.wikipedia.org/wiki/Inverse_problem)
+  * [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)
+  * [Hamiltonian Mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics)
+  * [Cannonical Distribution](https://en.wikipedia.org/wiki/Canonical_ensemble)
+  * [Hamiltonian MC](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
+  * [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation)
 
 ## <span style="color:Red">Resources</span>
 
