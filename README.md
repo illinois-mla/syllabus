@@ -298,6 +298,114 @@ The final projects along with the instructions have been posted at [Final Projec
   * [Hamiltonian MC](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
   * [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation)
 
+<!--################### Lecture 09 ######################-->
+
+### <span style="color:blue">[Oct 28]</span> **Lec 09**: <span style="color:red">Optimization, Comput. Graphs & Prob. Prog.</span>
+
+#### Goals
+* Learn about Optimization and Stochastic Gradient Descent
+* Learn about Frameworks for Computational Graphs
+* Learn about Probabilistic Programming methods
+
+#### Lecture notebook(s)
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
+
+#### Homework
+* [Homework 7](https://github.com/illinois-mla/Fall2019_Homework): Markov Chains
+  * Released on Monday, Oct 28
+  * Due by __3:00 pm CDT__ on __Monday, Nov 11__
+
+#### Supplemental reading
+* [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
+* [Jensen's Inequality](https://en.wikipedia.org/wiki/Jensen's_inequality)
+* [Finite Difference Equations](https://en.wikipedia.org/wiki/Finite_difference)
+* [Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+* [Rosenbrock function](https://en.wikipedia.org/wiki/Rosenbrock_function)
+* [Nelder-Mead method](https://en.wikipedia.org/wiki/Nelder–Mead_method)
+* [Conjugate Gradient Method](https://en.wikipedia.org/wiki/Conjugate_gradient_method)
+* [Newton's CG method](https://en.wikipedia.org/wiki/Newton's_method_in_optimization)
+* [Powell's method](https://en.wikipedia.org/wiki/Powell's_method)
+* [BFGS method](https://en.wikipedia.org/wiki/Broyden-Fletcher-Goldfarb-Shanno_algorithm)
+* [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+* [Adam Optimizer](https://arxiv.org/abs/1412.6980)
+* [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
+
+<!--################### NO Lecture ######################-->
+
+### <span style="color:blue">[Nov 04]</span> **NO LECTURE**
+
+<!--################### Lecture 10 ######################-->
+
+### <span style="color:blue">[Nov 11]</span> **Lec 10**: <span style="color:red">Bayesian Models & Probabilistic Learning</span>
+
+#### Goals
+
+#### Lecture notebook(s)
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
+
+#### Homework
+* None
+
+#### Supplemental reading
+* [Jeffreys proposed scale to interpret a Bayes Factor](https://en.wikipedia.org/wiki/Bayes_factor#Interpretation)
+
+<!--################### Lecture 11 ######################-->
+
+### <span style="color:blue">[Nov 18]</span> **Lec 11**: <span style="color:red">Supervised Learning & Cross Validation</span>
+
+#### Goals
+* Learn about Cross Validation
+
+#### Lecture notebook(s)
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
+* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
+
+#### Homework
+* None
+
+#### Supplemental reading
+* [Coefficient of Determination](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+
+<!--################### NO Lecture ######################-->
+
+### <span style="color:blue">[Nov 25]</span> **NO LECTURE** (Fall Break)
+
+<!--################### Lecture 12 ######################-->
+
+### <span style="color:blue">[Dec 02]</span> **Lec 12**: <span style="color:red">Artificial Neural Networks</span>
+
+#### Goals
+* Learning and Inference using Neural Networks
+
+#### Lecture notebook(s)
+* [Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
+
+#### Homework
+* [Homework 8](https://github.com/illinois-mla/Fall2019_Homework): Cross Validation and Neural Networks
+  * Released on Monday, Dec 02
+  * Due by __3:00 pm CDT__ on __Monday, Dec 09__
+
+#### Supplemental reading
+* [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+* [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
+* [Training Summary](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+
+<!--################### Lecture 14 ######################-->
+
+### <span style="color:blue">[Dec 09]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
+
+#### Goals
+* Learn about Deep Learning
+
+#### Lecture notebook(s)
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
+
+#### Homework
+* None
+
 ## <span style="color:Red">Resources</span>
 
 ### References
