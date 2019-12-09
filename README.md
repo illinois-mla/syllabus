@@ -385,7 +385,7 @@ The final projects along with the instructions have been posted at [Final Projec
 #### Homework
 * [Homework 8](https://github.com/illinois-mla/Fall2019_Homework): Cross Validation and Neural Networks
   * Released on Monday, Dec 02
-  * Due by __3:00 pm CDT__ on __Monday, Dec 09__
+  * Due by __3:00 pm CDT__ on __Monday, Dec 16__
 
 #### Supplemental reading
 * [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
