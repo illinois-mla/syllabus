@@ -217,7 +217,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rake (10.5.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -256,7 +256,7 @@ DEPENDENCIES
   jekyll-email-protect
   jekyll-paginate
   jemoji
-  rake (~> 10.4)
+  rake (~> 12.3)
   unicode_utils
 
 BUNDLED WITH

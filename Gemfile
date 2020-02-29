@@ -12,5 +12,5 @@ end
 
 group :development, :test do
   gem 'html-proofer', '~> 2.6'
-  gem 'rake', '~> 10.4'
+  gem 'rake', '~> 12.3'
 end
