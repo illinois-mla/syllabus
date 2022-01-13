@@ -10,10 +10,10 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem "kramdown"
+    gem 'kramdown'
     gem "rubyzip"
-    gem "nokogiri"
-    gem "bibtex-ruby"
+    gem 'nokogiri'
+    gem 'bibtex-ruby'
 end
 
 group :development, :test do
