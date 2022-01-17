@@ -416,16 +416,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 * [Official site](http://jupyter.org)
 * [nbviewer](https://nbviewer.jupyter.org)
 
-#### *Atom*
-I found the Atom editor to be the best option. It has full Github integration which avoids having to type git commands every time
-* [Official Site](https://atom.io)
-
-With a plug-in, it also does latex syntax highlighting. Install it with:
-
-``apm install latex``
-
-``apm install language-latex``
-
 ## <span style="color:Red">Acknowledgements</span>
 
 I would like to acknowledge [David Kirby](https://github.com/dkirkby) at the University of California at Irvine for the materials and setup for which this course is based and the helpful discussions we have had. I would like to thank [Matthew Feickert](https://github.com/matthewfeickert) and [Dewen Zhong](https://github.com/zhonglol) for their guidance and contributions to the course. I also acknowledge the course at <a href="https://github.com/advanced-js">github.com/advanced-js</a> for which the syllabus template was utilized.
