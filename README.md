@@ -7,18 +7,12 @@ permalink: /
 ![](assets/pynstein.jpg)
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
-* **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/profile/PHYS398MLA-120188)
+* **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/PHYS398MLA)
 * **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
-* **TA:** Dewen Zhong, [dzhong6@illinois.edu](mailto:dzhong6@illinois.edu)
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
-  * NOTE: **Due to a room conflict, the first lecture will be in 322 Loomis**
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Fall2019)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours
-      * Prof. Neubauer: Thursdays from 3-4 pm in 411 Loomis
-   * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
+      * Prof. Neubauer: TBA
 
 ## <span style="color:Red">Course Description</span>
 
@@ -26,9 +20,9 @@ Welcome you to the Data Analysis and Machine Learning Application (for physicist
 
 In this course, you will learn fundamentals of how to analyze and interpret scientific data and apply modern machine learning tools and techniques to problems common in physics research such as classification and regression. This course offering is very timely given the explosion of interest and rapid development of data science and artificial intelligence. Every day there are new applications of machine learning to the physical sciences in ways that are advancing our knowledge of nature.
 
-This course is designed to be interactive and collaborative, employing Active Learning methods, at the same time developing your own skills and knowledge (and course grade :). I initiated this course out of my view that we live in an increasingly data-centric world, with both people and machines learning from vast amounts of data. There has never been a time where early-career physicists were more in need of a solid understanding in the basics of scientific data analysis, data-driven inference and machine learning, and a working knowledge of the most important tools and techniques from modern data science than today.
+This course is designed to be interactive and collaborative, at the same time developing your own skills and knowledge. I initiated this course in 2018 from a viewpoint that we live in an increasingly data-centric world, with both people and machines learning from vast amounts of data. There has never been a time where early-career physicists such as yourself will benefit from a solid understanding in the basics of scientific data analysis, data-driven inference and machine learning, and working knowledge of the most important tools and techniques from modern data science than today.
 
-This is the second offering of a new course and unlike any that is being taught in our Department. As such, I ask for your feedback on any aspect of the course so that I can work to improve the curriculum.
+This is the third offering of the course. I welcome your feedback on any aspect of the course so that I can work to improve the curriculum.
 
 ## <span style="color:Red">Prerequisites</span>
 
@@ -40,10 +34,10 @@ This is the second offering of a new course and unlike any that is being taught 
 * You need a laptop for this course. It is assumed that you have a laptop running MacOS, Linux or Windows for use both inside and outside of the class.
 
 ### Software
-* Some knowledge of python preferred but not required. You do need to have a working knowledge of the basics of computer programming.
+* Some knowledge of python preferred but is not required. You do need to have a working knowledge of the basics of computer programming.
 
-### Setting up your environment
-* There is some setup required to ensure a consistent and functioning software environment on your computer to use the Jupyter notebooks in this course. This setup is detailed [here](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Setup.ipynb) and is best started before the first lecture to work out any wrinkles so that we can get started on the physics and data science content of the course.
+### Setting up
+* Instructions forthcoming
 
 ## <span style="color:Red">Course Overview</span>
 
@@ -78,21 +72,11 @@ The lectures will include physics and data science pedagogy, demonstrated throug
 
 ## <span style="color:Red">Homework</span>
 
-Homework is an important part of the course where you will have an opportunity to apply the techniques you are learning to problems relevant to the analysis of scientific data. All assignments are listed within the [Course Outline](#course-outline). You will submit your homework via your private Github repository.
+Homework is an important part of the course where you will have an opportunity to apply the techniques you are learning to problems relevant to the analysis of scientific data. All assignments are listed within the [Course Outline](#course-outline). 
 
 ## <span style="color:Red">Projects</span>
 
 Approximately halfway through the course, you will have the opportunity to choose from a set of projects that use open scientific data. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
-
-The final course projects can be found at
-* [Projects](https://github.com/illinois-mla/FinalProjects.git):
-
-
-<!--
-The final projects along with the instructions have been posted at [Final Projects](https://github.com/illinois-mla/FinalProjects). You are to choose one and submit to your private repo for grading on or before:
-
-* On or before __5:00 pm CDT__ on __Friday, May 10__
--->
 
 ## <span style="color:Red">Grading</span>
 
