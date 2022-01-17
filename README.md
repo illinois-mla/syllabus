@@ -86,6 +86,10 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 ## <span style="color:Red">Course Outline</span>
 
+<!--################### NO Lecture ######################-->
+
+### <span style="color:blue">[Sep 17]</span> **NO LECTURE** (MLK Day)
+
 <!--################### Lecture 01 ######################-->
 
 ### <span style="color:blue">[Aug 26]</span> **Lec 01**: <span style="color:red">*Introduction*</span>
@@ -96,9 +100,9 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### *Lecture notebooks*
 * [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
-* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
-* [Setup your environment](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Setup.ipynb)
-* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
+* Course introduction
+* Setup your environment
+* Homework assignments
 
 #### *Homework*
 * Complete setting up your environment so that you can launch and execute notebooks
@@ -109,10 +113,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### *Supplemental reading*
 * None
 
-
-<!--################### NO Lecture ######################-->
-
-### <span style="color:blue">[Sep 02]</span> **NO LECTURE** (Labor Day)
 
 <!--################### Lecture 02 ######################-->
 
