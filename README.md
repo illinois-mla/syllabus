@@ -64,7 +64,7 @@ Topics covered include:
 * *Neural networks*
 * *Deep learning*
 
-Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks, available at [syllabus/notebooks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks).
+Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks.
 
 ## <span style="color:Red">Class Participation</span>
 
