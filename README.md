@@ -17,7 +17,6 @@ permalink: /
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
     * Office Hours
-      * Dewen Zhong: Thursdays from 2-3 pm in 420 Loomis
       * Prof. Neubauer: Thursdays from 3-4 pm in 411 Loomis
    * [Email](mailto:msn@illinois.edu) for 1-on-1 help, or to set up a time to meet
 
