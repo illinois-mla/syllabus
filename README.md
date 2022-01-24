@@ -11,8 +11,12 @@ permalink: /
 * **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
 * **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
 * **Need help?**
-    * Office Hours
-      * Prof. Neubauer: TBA
+  * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Spring2022)
+    * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around. 
+    * Please do not post messages that give away answers to homework problems since posts are viewable by all students enrolled in the course. 
+  * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
+  * Office Hours
+    * Prof. Neubauer: Thursdays from 4-5 pm over Zoom
 
 ## <span style="color:Red">Course Description</span>
 
@@ -76,7 +80,7 @@ Homework is an important part of the course where you will have an opportunity t
 
 ## <span style="color:Red">Projects</span>
 
-Approximately halfway through the course, you will have the opportunity to choose from a set of projects that use open scientific data. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
+Approximately halfway through the course, you will have the opportunity to choose from a set of projects based on open scientific data and apply what you have learned in the course. You will be asked to answer certain questions about the data, supported by your analysis and written up in a Jupyter notebook which you will submit. Your notebook will also include background information about how the data is generated, its scientific relevance and your methodology.
 
 ## <span style="color:Red">Grading</span>
 
