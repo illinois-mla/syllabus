@@ -16,7 +16,7 @@ permalink: /
     * Please do not post messages that give away answers to homework problems since posts are viewable by all students enrolled in the course. 
   * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
   * Office Hours
-    * Prof. Neubauer: Thursdays from 4-5 pm over Zoom
+    * Prof. Neubauer: Thursdays from 4-5 pm over [Zoom](https://illinois.zoom.us/j/82093271789?pwd=alVJNndDak12b0J1dWNqNkpDWGdVUT09)
 
 ## <span style="color:Red">Course Description</span>
 
