@@ -41,7 +41,7 @@ This is the third offering of the course. I welcome your feedback on any aspect 
 * Some knowledge of python preferred but is not required. You do need to have a working knowledge of the basics of computer programming.
 
 ### Setting up
-* Instructions forthcoming
+* The course lecture workbooks and assessments will be hoste in [Prairelearn](https://www.prairielearn.org/pl/course_instance/129081) using their workspaces feature. This provides all you will need to interact with the course notebooks. You also have the option to run the Docker container for the course environment locally, which would provide faster response than the PL Workspace since the course container is rather large. See instructions for use of the PHYS398MLA Docker container at [here](https://github.com/illinois-mla/phys-398-mla-image). 
 
 ## <span style="color:Red">Course Overview</span>
 
