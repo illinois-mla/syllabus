@@ -105,7 +105,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### *Lecture notebooks*
 * [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
 * [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
-)
 
 #### *Homework*
 * Complete setting up your environment so that you can launch and execute notebooks
@@ -129,8 +128,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Handle data
 
 #### Homework
-* Homework 1: Numerical python and data handling
-
+* None
+* 
 #### Supplemental reading
   * [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
@@ -152,7 +151,7 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Find structure in data
 
 #### Homework
-  * None
+* Homework 1: Numerical python and data handling
 
 #### Supplemental reading
   * [Scikit-learn](http://scikit-learn.org)
