@@ -104,9 +104,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### *Lecture notebooks*
 * [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
-* Course introduction
-* Setup your environment
-* Homework assignments
+* [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
+)
 
 #### *Homework*
 * Complete setting up your environment so that you can launch and execute notebooks
