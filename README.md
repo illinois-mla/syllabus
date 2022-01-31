@@ -124,8 +124,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about handling and describing data
 
 #### Lecture notebook(s)
-* Notebooks and numerical python
-* Handle data
+* [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
+* [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
 
 #### Homework
 * None
