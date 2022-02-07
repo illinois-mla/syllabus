@@ -105,6 +105,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### *Lecture notebooks*
 * [Reading list](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/References.ipynb)
 * [Course introduction](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Intro.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
 
 #### *Homework*
 * Complete setting up your environment so that you can launch and execute notebooks
@@ -126,7 +127,6 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Lecture notebook(s)
 * [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
 * [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
-* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
 
 #### Homework
 * None
