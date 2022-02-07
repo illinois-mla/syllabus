@@ -76,7 +76,7 @@ The lectures will include physics and data science pedagogy, demonstrated throug
 
 ## <span style="color:Red">Homework</span>
 
-Homework is an important part of the course where you will have an opportunity to apply the techniques you are learning to problems relevant to the analysis of scientific data. All assignments are listed within the [Course Outline](#course-outline). 
+Homework is an important part of the course where you will have an opportunity to apply the techniques you are learning to problems relevant to the analysis of scientific data. All assignments are listed within the [Course Outline](#course-outline) and distributed through PrairieLearn. You will submit your homework via your privae Github repository.
 
 ## <span style="color:Red">Projects</span>
 
@@ -126,6 +126,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Lecture notebook(s)
 * [Notebooks and numerical python](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/JupyterNumpy.ipynb)
 * [Handle data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Pandas.ipynb)
+* [Homework assignments](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Homework.ipynb)
 
 #### Homework
 * None
@@ -147,11 +148,13 @@ Approximately halfway through the course, you will have the opportunity to choos
      * KMeans, Spectral Clustering, DBSCAN
 
 #### Lecture notebook(s)
-  * Visualize data
-  * Find structure in data
+  * [Visualize data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Visualization.ipynb)
+  * [Find structure in data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Clustering.ipynb)
 
 #### Homework
 * Homework 1: Numerical python and data handling
+  * Released via Prairelearn on Monday, Feb 7
+  * Due by __3:00 pm CDT__ on __Monday, Feb 14__
 
 #### Supplemental reading
   * [Scikit-learn](http://scikit-learn.org)
