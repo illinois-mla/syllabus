@@ -174,6 +174,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Homework
   * Homework 2: Visualization, Covariance and Correlation
+  * Released via Prairelearn on Monday, Feb 14
+  * Due by __3:00 pm CDT__ on __Monday, Feb 21__
 
 #### Supplemental reading
   * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
