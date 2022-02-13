@@ -169,8 +169,8 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Adapt linear models to nonlinear problems
 
 #### Lecture notebook(s)
-  * Measure and reduce dimensionality
-  * Adapt linear methods to nonlinear problems
+  * [Measure and reduce dimensionality](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Dimensionality.ipynb)
+  * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
   * Homework 2: Visualization, Covariance and Correlation
