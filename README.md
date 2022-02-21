@@ -173,12 +173,14 @@ Approximately halfway through the course, you will have the opportunity to choos
   * [Adapt linear methods to nonlinear problems](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
 
 #### Homework
-  * Homework 2: Visualization, Covariance and Correlation
+* Homework 2: Visualization, Covariance and Correlation
   * Released via Prairelearn on Monday, Feb 14
   * Due by __3:00 pm CDT__ on __Monday, Feb 21__
 
 #### Supplemental reading
+  * [Eigenvalue/Eignvector refresher](https://www.mathsisfun.com/algebra/eigenvalue.html)
   * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+  * [PCA Step-by-Step](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
   * [Blind Signal Separation](https://en.wikipedia.org/wiki/Blind_signal_separation)
 
 <!--################### Lecture 05 ######################-->
@@ -190,11 +192,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Probability Theory
 
 #### Lecture notebook(s)
-* Kernel Functions
-* Probability theory
+* [Kernel Functions](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Nonlinear.ipynb)
+* [Probability theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Probability.ipynb)
 
 #### Homework
 * Homework 3: Expectation-Maximization Algorithm, K-Means, Principle Component Analysis
+  * Released via Prairelearn on Monday, Feb 21
+  * Due by __3:00 pm CDT__ on __Monday, Feb 28__
 
 #### Supplemental reading
   * [Kernel Method](https://en.wikipedia.org/wiki/Kernel_method)
