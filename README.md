@@ -215,11 +215,13 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Learn about Statistical Methods
 
 #### Lecture notebook(s)
-  * Estimate probability density from Data
-  * Statistical methods
+  * [Estimate probability density from Data](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Density.ipynb)
+  * [Statistical methods](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Statistics.ipynb)
 
 #### Homework
   * Homework 4: Probability
+    * Released via Prairelearn on Monday, Mar 07
+    * Due by __3:00 pm CDT__ on __Monday, Mar 07__
 
 #### Supplemental reading
   * [Positive Definite Matrix definition](https://en.wikipedia.org/wiki/Positive-definite_matrix)
