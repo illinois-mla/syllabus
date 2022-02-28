@@ -220,7 +220,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 #### Homework
   * Homework 4: Probability
-    * Released via Prairelearn on Monday, Mar 07
+    * Released via Prairelearn on Monday, Feb 28
     * Due by __3:00 pm CDT__ on __Monday, Mar 07__
 
 #### Supplemental reading
