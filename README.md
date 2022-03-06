@@ -270,11 +270,13 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Learn about the Variational Inference Method
 
 #### Lecture notebook(s)
-  * Stochastic processes and Markov-chain theory
-  * Variational inference
+  * [Stochastic processes and Markov-chain theory](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Markov.ipynb)
+  * [Variational inference](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Variational.ipynb)
 
 #### Homework
   * Homework 6: Bayesian Statistics and Markov Chain Monte Carlo
+    * Released via Prairelearn on Monday, Mar 21
+    * Due by __3:00 pm CDT__ on __Monday, Mar 28__
 
 #### Supplemental reading
   * [C. Maes, <i>An introduction to the theory of Markov processes mostly for physics students</i>](https://fys.kuleuven.be/itf/staff/christ/files/pdf/pub/markovlectures2015.pdf)
@@ -297,11 +299,13 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Probabilistic Programming methods
 
 #### Lecture notebook(s)
-* Optimization
-* Frameworks for computational graphs and probabilistic programming
+* [Optimization](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Optimization.ipynb)
+* [Frameworks for computational graphs and probabilistic programming](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Frameworks.ipynb)
 
 #### Homework
 * Homework 7: Markov Chains
+    * Released via Prairelearn on Monday, Mar 28
+    * Due by __3:00 pm CDT__ on __Monday, Apr 04__
 
 #### Supplemental reading
 * [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
@@ -325,8 +329,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Goals
 
 #### Lecture notebook(s)
-* Bayesian model selection
-* Learning in a probabilistic context
+* [Bayesian model selection](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/ModelSelection.ipynb)
+* [Learning in a probabilistic context](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Learning.ipynb)
 
 #### Homework
 * None
@@ -342,8 +346,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learn about Cross Validation
 
 #### Lecture notebook(s)
-* Supervised learning in Scikit Learn
-* Cross validation
+* [Supervised learning in Scikit Learn](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Supervised.ipynb)
+* [Cross validation](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/CrossValidation.ipynb)
 
 #### Homework
 * None
@@ -359,23 +363,38 @@ Approximately halfway through the course, you will have the opportunity to choos
 * Learning and Inference using Neural Networks
 
 #### Lecture notebook(s)
-* Neural networks
+* [Artificial Neural networks](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/NeuralNetworks.ipynb)
 
 #### Homework
-* Homework 8: Cross Validation and Neural Networks
-
+* Homework 8: Cross Validation and Artificial Neural Networks
+    * Released via Prairelearn on Monday, Apr 18
+    * Due by __3:00 pm CDT__ on __Monday, Apr 25__
+  
 #### Supplemental reading
 * [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * [Types of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [Backpropogation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Training Summary](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
+<!--################### Lecture 13 ######################-->
+
+### <span style="color:blue">[Apr 25]</span> **Lec 13**: <span style="color:red">Deep Learning</span>
+
+#### Goals
+* Learn about Deep Learning
+
+#### Lecture notebook(s)
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
+
+#### Homework
+* None
+
 <!--################### Lecture 14 ######################-->
 
-### <span style="color:blue">[Apr 25]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
+### <span style="color:blue">[May 02]</span> **Lec 13**: <span style="color:red">Deep Learning</span>
 
 #### Goals
-* Learn about Deep Learning
+* [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
 
 #### Lecture notebook(s)
 * Deep learning
@@ -383,20 +402,8 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Homework
 * None
 
-<!--################### Lecture 15 ######################-->
-
-### <span style="color:blue">[May 02]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
-
-#### Goals
-* Learn about Deep Learning
-
-#### Lecture notebook(s)
-* Deep learning
-
-#### Homework
-* None
-
-
+<!--#####################################################-->
+<!--#####################################################-->
 
 ## <span style="color:Red">Resources</span>
 
