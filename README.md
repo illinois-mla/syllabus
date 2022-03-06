@@ -239,12 +239,13 @@ Approximately halfway through the course, you will have the opportunity to choos
   * Learn about Bayesian Statistics
   * Markov-chain Monte Carlo put into practice
 
-#### Lecture notebook(s)
-  * Bayesian statistics
-  * Markov-chain Monte Carlo in practice
+  * [Bayesian statistics](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/Bayes.ipynb)
+  * [Markov-chain Monte Carlo in practice](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/MCMC.ipynb)
 
 #### Homework
   * Homework 5: Kernel Density Estimation
+      * Released via Prairelearn on Monday, Mar 07
+      * Due by __3:00 pm CDT__ on __Monday, Mar 21__
 
 #### Supplemental reading
   * [Beta Distribution](https://en.wikipedia.org/wiki/Beta_distribution)
