@@ -305,7 +305,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Homework
 * Homework 7: Markov Chains
     * Released via Prairelearn on Monday, Mar 28
-    * Due by __3:00 pm CDT__ on __Monday, Apr 04__
+    * Due by __3:00 pm CDT__ on __Monday, Apr 18__
 
 #### Supplemental reading
 * [Convex Functions](https://en.wikipedia.org/wiki/Convex_function)
@@ -391,7 +391,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 
 <!--################### Lecture 14 ######################-->
 
-### <span style="color:blue">[May 02]</span> **Lec 13**: <span style="color:red">Deep Learning</span>
+### <span style="color:blue">[May 02]</span> **Lec 14**: <span style="color:red">Deep Learning</span>
 
 #### Goals
 * [Deep learning](https://nbviewer.jupyter.org/github/illinois-mla/syllabus/blob/master/notebooks/DeepLearning.ipynb)
