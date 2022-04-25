@@ -368,7 +368,7 @@ Approximately halfway through the course, you will have the opportunity to choos
 #### Homework
 * Homework 8: Cross Validation and Artificial Neural Networks
     * Released via Prairelearn on Monday, Apr 18
-    * Due by __3:00 pm CDT__ on __Monday, Apr 25__
+    * Due by __3:00 pm CDT__ on __Monday, May 13__
   
 #### Supplemental reading
 * [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
